@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Paraciclos" id="Paraciclos">
+	<SimpleField name="Capacidade" type="string"></SimpleField>
+</Schema>
+<Folder><name>Paraciclos</name>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.24327160445867,-25.489518447481789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.243488662188398,-25.489356337152199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.240584265334441,-25.495028337793514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.244225187860067,-25.487569595591836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.244539725645019,-25.487206824854525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.249148487502765,-25.477474457072145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.249468259426408,-25.477100137229737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.249999227662038,-25.47573079754256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.282643778481123,-25.398258141403588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.269206377040213,-25.416971898739508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.27153485829318,-25.429652612845235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.275434850989214,-25.432563721798299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.27285985512529,-25.432505387171393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.26693208183854,-25.436735933506863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.26768918517125,-25.436725773306367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.270519443075329,-25.408247272126967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.270505586780352,-25.408941187945455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.353446938578699,-25.427938080061306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.240788153687099,-25.494893912326145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.254008028326197,-25.436861870312725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.251372512111189,-25.442125876656469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.249976587606689,-25.443322767087718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.248221174761589,-25.446409912271989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.245949713135957,-25.448767170846949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.245058949400274,-25.450870250405888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.236245789738405,-25.462521723037842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.234776137264326,-25.46552385212339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.225107772517056,-25.47777615466336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.222869500262142,-25.481220409636126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.219811917875631,-25.485366508950641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.214812970908497,-25.491730666947142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.212185248265222,-25.495679900999178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.209851943487877,-25.498816813778038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.217749251632306,-25.487499008246395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.205687129618774,-25.505286375956096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.324428109581191,-25.474106098179575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.215021720988894,-25.491495902594142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.245031931447691,-25.449940302212575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.218065336183734,-25.487757589644858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.227434336633443,-25.474600632465322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.235171477804279,-25.506084677677112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2345987449945,-25.507501990898756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.232601634026381,-25.511360266929785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.231960150932316,-25.512963679959459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.220733293894611,-25.52749865129659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.221555849954122,-25.527411807185956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.227939352866834,-25.521202149311851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.228409143639084,-25.520031588701805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.229574757914001,-25.517873982176781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.321471742482778,-25.470558410024072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.321943991947933,-25.471207861882348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.247066437922427,-25.481227531038201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.295612320210822,-25.513411566358787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.269425986208979,-25.427225571081689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.273721287859644,-25.426429004036319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.274171999533635,-25.423676249421408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.270345291046901,-25.431758315499259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.264673110019196,-25.429326689507253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.27480354875226,-25.420844929827926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.273486040676524,-25.430907879435413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.256120871146621,-25.434833218552473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.274401842280618,-25.43579376437868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.272828050463936,-25.434379884368553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.271840476696475,-25.443240047501785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.270636541735882,-25.434727346556095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.308317254713636,-25.427005348569214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.208124609013296,-25.468950495749844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.349997859440933,-25.483971750652696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.241129526790495,-25.39344409113145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.264518330413303,-25.427191470266436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.267209269100945,-25.414452756205385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.350719102283691,-25.413491582677597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.242716648202155,-25.490945463658228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.250208416495653,-25.475580182799391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.327569649052201,-25.473752945107968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.334935038562229,-25.47928228227876</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.260126665658561,-25.431315155902514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.265270902986984,-25.432638440095062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.249661085992884,-25.422665639353351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.268165140689916,-25.424173997425154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.269920908476514,-25.409410738179872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.266656057116705,-25.410628205804393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.267478076604235,-25.409162809814401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.272126737230217,-25.42783612948751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.25607889247712,-25.438146075011776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.221641777808031,-25.440112651814051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.214846144589586,-25.45187684031718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.246589273271105,-25.482405175259409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.230532523276338,-25.517036640665481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.267905858130021,-25.534406090575807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.294487574770976,-25.512407616178951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.324530787564029,-25.511703159700552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.293582882172188,-25.492224674488622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.326363566018223,-25.477570029169183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.292621596306304,-25.476329217768448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.346871911288687,-25.441665613809977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.308008156366846,-25.436169869464308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.328269351920206,-25.40176065835119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.262417183213294,-25.377520106873359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.252632292352509,-25.406645820726254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.205397213509208,-25.412682188353017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.268735534804932,-25.431071881255363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.26701270587904,-25.429433045624201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.262183951402271,-25.362560988180356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.265286352694062,-25.382339169629518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.258239689834845,-25.437086915292351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.287938911863776,-25.404647494859766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.281941749947521,-25.378700538579857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.230617928526655,-25.39058065096852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.241487088512834,-25.442363306686818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.261885629737151,-25.426803697055206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.251843427504014,-25.414170738276436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.267607833699024,-25.429120203516963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.326594519015657,-25.477987112932176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.237861825268844,-25.501467924438519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.231267667200754,-25.559872312985316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.350749148955799,-25.423540152765113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.348252076430853,-25.420797100130653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.349558855197174,-25.416869880277684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.346347268488252,-25.410624022443606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.342245834446999,-25.409048353076386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.33611212013588,-25.406824985550269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.335267444772384,-25.403773890216168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.306702785693872,-25.435975839377171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.239759504631685,-25.496723521569034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.240031838427917,-25.496453051077182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraciclo</name>
+	<ExtendedData><SchemaData schemaUrl="#Paraciclos">
+		<SimpleData name="Capacidade">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.242441846538753,-25.491211272632256</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

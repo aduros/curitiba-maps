@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Centros_de_Esporte_e_Lazer" id="Centros_de_Esporte_e_Lazer">
+	<SimpleField name="Telefone" type="string"></SimpleField>
+</Schema>
+<Folder><name>Centros_de_Esporte_e_Lazer</name>
+  <Placemark>
+	<name>Afonso Botelho</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">3350-3706                                                                                                                                                                                                                                                 </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.274575377300003,-25.4470381169,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arthur Bernardes</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3228-1610                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.302769743600003,-25.457826381099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avelino Vieira</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3356-6217                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.225668951800003,-25.389550086,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bacacheri</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3251-1014                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.232916377899997,-25.394174641599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bairro Novo</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3289-5907                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.262572414399997,-25.545025062800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brigadeiro Do Ar Mário Calmon Eppinghaus</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3321-2707                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.252542662300002,-25.414910215599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dirceu Graeser</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3321-2708                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.276322450199999,-25.440318867,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dirceu José Guimarães</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">3361-2331                                                                                                                                                                                                                                                 </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.193781579099998,-25.480120385199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ewaldo Riedel</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3285-8361                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.356618967700001,-25.454514258100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Menonitas</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3217-1214                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.247801779699998,-25.505402992299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Padre Agostinho Legros</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3377-3180                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.235640292699998,-25.517833178899998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plínio Tourinho</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3218-5436                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.254482046299998,-25.4406258247,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Da Cidadania Boa Vista</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3313-5644                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.23253254,-25.385398740100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Da Cidadania Carmo-Boqueirão</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3276-6016                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.237197056200003,-25.5007898651,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Da Cidadania Fazendinha-Portão</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3359-3978                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.326427367400001,-25.477922363699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Da Cidadania Pinheirinho</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3212-1482                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.294741112300002,-25.514141860399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Da Cidadania Santa Felicidade</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3374-5263                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.330257142500002,-25.40029093,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Rita</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3396-5968                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.338931552200002,-25.5656808785,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Uberaba</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3350-3741                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2248510135,-25.469588458699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Velódromo</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3218-2408                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2407586036,-25.443341449599998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Oficinas</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3361-2328                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.218279679699997,-25.449269770499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Tecnológica</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3564-6533                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.271347554499997,-25.547873045700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xapinhal</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3298-1060                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.276465423099999,-25.530943128299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xaxim</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3376-6328                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.266488248,-25.4980008243,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Zumbi Dos Palmares</name>
+	<ExtendedData><SchemaData schemaUrl="#Centros_de_Esporte_e_Lazer">
+		<SimpleData name="Telefone">(41) 3212-1409                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.290889739900003,-25.508523557,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

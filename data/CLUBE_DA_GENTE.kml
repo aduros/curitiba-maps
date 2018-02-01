@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Clubes_da_Gente" id="Clubes_da_Gente">
+	<SimpleField name="Telefone" type="string"></SimpleField>
+</Schema>
+<Folder><name>Clubes_da_Gente</name>
+  <Placemark>
+	<name>Bairro Novo</name>
+	<ExtendedData><SchemaData schemaUrl="#Clubes_da_Gente">
+		<SimpleData name="Telefone">(41) 3265-4041                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.262977961799997,-25.544621594900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cic</name>
+	<ExtendedData><SchemaData schemaUrl="#Clubes_da_Gente">
+		<SimpleData name="Telefone">(41) 3229-4310                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.349523428700003,-25.489326012199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tatuquara</name>
+	<ExtendedData><SchemaData schemaUrl="#Clubes_da_Gente">
+		<SimpleData name="Telefone">(41) 3396-3142                                                                                                                                                                                                                                            </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.327886242200002,-25.563041686799998,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
