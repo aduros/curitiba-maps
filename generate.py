@@ -1,91 +1,113 @@
 #!/usr/bin/env python
+# coding=utf8
 
 import dbf
 from osgeo import ogr, osr
 
-def generate (filePrefix, layerName, itemName=None, metadata={}):
-    table = dbf.Table("data/"+filePrefix+".dbf")
-    table.open()
+class Generator:
+    def __init__ (self, name, metadata={}):
+        self.name = name
+        self.metadata = metadata
+        self.features = []
 
-    sourceData = ogr.GetDriverByName("ESRI Shapefile").Open("data/"+filePrefix+".shp", 0)
-    sourceLayer = sourceData.GetLayer()
+        sourceProj = osr.SpatialReference()
+        sourceProj.ImportFromEPSG(29192)
+        targetProj = osr.SpatialReference()
+        targetProj.ImportFromEPSG(4326)
+        self.transform = osr.CoordinateTransformation(sourceProj, targetProj)
 
-    sourceProj = osr.SpatialReference()
-    sourceProj.ImportFromEPSG(29192)
-    targetProj = osr.SpatialReference()
-    targetProj.ImportFromEPSG(4326)
-    transform = osr.CoordinateTransformation(sourceProj, targetProj)
+        self.kml = ogr.GetDriverByName("KML").CreateDataSource("output/"+name+".kml")
+        self.layer = self.kml.CreateLayer(name)
 
-    kml = ogr.GetDriverByName("KML").CreateDataSource("data/"+filePrefix+".kml")
-    layer = kml.CreateLayer(layerName)
-    features = []
-
-    print(filePrefix+" --> "+" ".join(table.structure()))
-    print("")
-
-    for key in metadata:
-        layer.CreateField(ogr.FieldDefn(key, ogr.OFTString))
-
-    count = 0
-    for record in table:
-        feature = ogr.Feature(layer.GetLayerDefn())
-        print(record)
-        # print(record.equipament)
-
-        try:
-            name = record["nome"].strip().title()
-            feature.SetField("name", name.encode("utf8"))
-        except dbf.ver_2.FieldMissingError:
-            if itemName is not None:
-                feature.SetField("name", itemName)
-
+        self.layer.CreateField(ogr.FieldDefn("categoria", ogr.OFTString))
         for key in metadata:
-            value = (""+record[metadata[key]]).strip().title()
-            feature.SetField(key, value.encode("utf8"))
+            self.layer.CreateField(ogr.FieldDefn(key, ogr.OFTString))
 
-        try:
-            lat = record["lat_sirgas"]
-            lon = record["lon_sirgas"]
-            geom = ogr.Geometry(ogr.wkbPoint)
-            geom.AddPoint(lon, lat)
-        except dbf.ver_2.FieldMissingError:
-            sourceFeature = sourceLayer.GetFeature(count)
-            geom = sourceFeature.GetGeometryRef()
-            geom.Transform(transform)
+    def addFeatures (self, filePrefix, defaultName=None):
+        table = dbf.Table("data/"+filePrefix+".dbf")
+        table.open()
 
-        feature.SetGeometry(geom)
-        features.append(feature)
-        count = count + 1
+        sourceData = ogr.GetDriverByName("ESRI Shapefile").Open("data/"+filePrefix+".shp", 0)
+        sourceLayer = sourceData.GetLayer()
 
-    features.sort(key=lambda feature: feature.GetField("name"))
-    for feature in features:
-        layer.CreateFeature(feature)
+        count = 0
+        for record in table:
+            feature = ogr.Feature(self.layer.GetLayerDefn())
+            # print(record)
 
-generate("ACADEMIA_AO_AR_LIVRE", "Academias ao Ar Livre")
+            try:
+                name = record["nome"].strip().title()
+                feature.SetField("name", name.encode("utf8"))
+            except dbf.ver_2.FieldMissingError:
+                if defaultName is not None:
+                    feature.SetField("name", defaultName)
 
-generate("PARQUES_E_BOSQUES", "Parques e Bosques", metadata={
-    "Tipo": "tipo",
-})
-generate("PRACAS_E_JARDINETES", "Pracas e Jardinetes", metadata={
-    "Tipo": "tipo",
-}) # TODO(bruno): Spelling
+            for key in self.metadata:
+                try:
+                    value = (""+record[self.metadata[key]]).strip().title()
+                    feature.SetField(key, value.encode("utf8"))
+                except dbf.ver_2.FieldMissingError:
+                    pass
 
-generate("CALCADAO", "Calcadao")
+            if defaultName is not None:
+                feature.SetField("categoria", defaultName)
 
-# generate("CICLOVIA_OFICIAL", "Ciclovias")
-# generate("CICLORROTA", "Ciclorrotas")
-# generate("PARACICLO", "Paraciclos", itemName="Paraciclo", metadata={
-#     "Capacidade": "capacidade",
-# })
+            try:
+                lat = record["lat_sirgas"]
+                lon = record["lon_sirgas"]
+                geom = ogr.Geometry(ogr.wkbPoint)
+                geom.AddPoint(lon, lat)
+            except dbf.ver_2.FieldMissingError:
+                sourceFeature = sourceLayer.GetFeature(count)
+                geom = sourceFeature.GetGeometryRef()
+                geom.Transform(self.transform)
 
-# generate("CENTRO_DE_ESPORTE_E_LAZER", "Centros de Esporte e Lazer", metadata={
-#     "Telefone": "telefone",
-# })
-# generate("CENTRO_DE_ATIVIDADE_FISICA", "Centros de Atividade Fisica", metadata={
-#     "Telefone": "telefone",
-# })
+            feature.SetGeometry(geom)
+            self.features.append(feature)
+            count = count + 1
 
-# generate("RUA_DA_CIDADANIA", "Ruas da Cidadania")
-# generate("CLUBE_DA_GENTE", "Clubes da Gente", metadata={
-#     "Telefone": "telefone",
-# })
+    def write (self):
+        self.features.sort(key=lambda feature: feature.GetField("name"))
+        for feature in self.features:
+            self.layer.CreateFeature(feature)
+
+#
+# Parks and Recreation
+#
+
+generator = Generator("Parques e Bosques", metadata={"tipo": "tipo"})
+generator.addFeatures("PARQUES_E_BOSQUES")
+generator.write()
+
+generator = Generator("Praças e Jardinetes", metadata={"tipo": "tipo"})
+generator.addFeatures("PRACAS_E_JARDINETES")
+generator.write()
+
+generator = Generator("Calçadões")
+generator.addFeatures("CALCADAO", "Calçadão")
+generator.write()
+
+generator = Generator("Ciclovias", metadata={"tipo": "tipo"})
+generator.addFeatures("CICLOVIA_OFICIAL", "Ciclovia")
+# generator.addFeatures("CICLORROTA", "Ciclorrota")
+generator.addFeatures("PARACICLO", "Paraciclo")
+generator.write()
+
+generator = Generator("Clubes de Esporte", metadata={"telefone": "telefone"})
+generator.addFeatures("CENTRO_DE_ESPORTE_E_LAZER", "Centro de Esporte e Lazer")
+generator.addFeatures("CENTRO_DE_ATIVIDADE_FISICA", "Centro de Atividade Fisica")
+generator.addFeatures("CENTRO_DA_JUVENTUDE", "Centro da Juventude")
+generator.addFeatures("CLUBE_DA_GENTE", "Clube da Gente")
+generator.write()
+
+generator = Generator("Academias ao Ar Livre")
+generator.addFeatures("ACADEMIA_AO_AR_LIVRE")
+generator.write()
+
+#
+# Health and Services
+#
+
+# generator = Generator("Cemetarios")
+# generator.addFeatures("CEMETARIOS", "Cemetario")
+# generator.write()
