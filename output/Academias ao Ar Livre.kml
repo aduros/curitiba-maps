@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Academias_ao_Ar_Livre" id="Academias_ao_Ar_Livre">
+	<SimpleField name="categoria" type="string"></SimpleField>
+</Schema>
+<Folder><name>Academias_ao_Ar_Livre</name>
+  <Placemark>
+	<name>Avenida Florianópolis</name>
+      <Point><coordinates>-49.212678685500002,-25.459156241599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bosque Da Fazendinha</name>
+      <Point><coordinates>-49.323459167899998,-25.475777271599998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bosque De Conservação Da Biodiversidade Urbana Vitória Régia</name>
+      <Point><coordinates>-49.338954101900001,-25.540405858500002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bosque Dos Mundiais</name>
+      <Point><coordinates>-49.302603826499997,-25.481138076499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bosque Irmã Clementina</name>
+      <Point><coordinates>-49.2180465024,-25.412264148599998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Centro Esportivo Avelino Vieira</name>
+      <Point><coordinates>-49.225749529600002,-25.3892930572,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto Residencial Mercúrio</name>
+      <Point><coordinates>-49.202968413699999,-25.477551511600002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto Residencial Vila Velha</name>
+      <Point><coordinates>-49.3380035355,-25.4623537947,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eixo De Animação Arnaldo Busato</name>
+      <Point><coordinates>-49.276026217400002,-25.475365363200002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eixo De Animação Arthur Bernardes</name>
+      <Point><coordinates>-49.303051129099998,-25.457065050499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eixo De Animação Arthur Bernardes Ii</name>
+      <Point><coordinates>-49.300805751299997,-25.463643591299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Escola Municipal Professora Joana Raksa</name>
+      <Point><coordinates>-49.348237665200003,-25.619155427,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Ambiental Olga De Araujo Espíndola</name>
+      <Point><coordinates>-49.300984965799998,-25.494447528799999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Ambiental Schiller</name>
+      <Point><coordinates>-49.2499135069,-25.424551966100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Amority Rodrigues</name>
+      <Point><coordinates>-49.222599869500002,-25.496338121600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Delfino Mendes De Siqueira</name>
+      <Point><coordinates>-49.289573529599998,-25.521433911900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Deputado Federal Mário César Stamm</name>
+      <Point><coordinates>-49.2360535774,-25.430759141700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Doutor João Urban</name>
+      <Point><coordinates>-49.329214643900002,-25.4579880565,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Frederico Stall</name>
+      <Point><coordinates>-49.297100051599998,-25.4905954625,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Habib Taherzadeh</name>
+      <Point><coordinates>-49.215781962500003,-25.405061695899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Humberto Bertoldi</name>
+      <Point><coordinates>-49.326805252,-25.514249461,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Jorge Haikel Fahd</name>
+      <Point><coordinates>-49.288019384400002,-25.497358928800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Jornalista Vinícus Coelho</name>
+      <Point><coordinates>-49.233835983799999,-25.5320560541,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete João Túlio</name>
+      <Point><coordinates>-49.260127779400001,-25.3893422471,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Laeth Da Rosa Benato</name>
+      <Point><coordinates>-49.3546391832,-25.4859330066,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Nilo Kusma Palhano</name>
+      <Point><coordinates>-49.288165704199997,-25.5307477904,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Orlando Calil Fadel</name>
+      <Point><coordinates>-49.228438681299998,-25.509418169900002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Poeta Leonardo Henke</name>
+      <Point><coordinates>-49.247196150100002,-25.4225295263,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Renério Alves</name>
+      <Point><coordinates>-49.3122787231,-25.4873086208,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Sebastiana Siqueira De Almeida</name>
+      <Point><coordinates>-49.284755046699999,-25.454175278299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Zelinda Fanini Schier</name>
+      <Point><coordinates>-49.263203953100003,-25.4943016844,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardinete Zezé Ribas</name>
+      <Point><coordinates>-49.354701090399999,-25.425935694700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Largo Dos Colonizadores</name>
+      <Point><coordinates>-49.2083763702,-25.413302913399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Largo Isaac Lazzarotto</name>
+      <Point><coordinates>-49.250486779200003,-25.431411635,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Largo Jornalista Carlos Coelho</name>
+      <Point><coordinates>-49.272444227100003,-25.459329821899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Loteamento Horizonte</name>
+      <Point><coordinates>-49.306655318899999,-25.5073980777,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Arroio</name>
+      <Point><coordinates>-49.3207401851,-25.518406024400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Cajuru</name>
+      <Point><coordinates>-49.225469926400002,-25.4479263984,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Da Ordem</name>
+      <Point><coordinates>-49.331572453600003,-25.5571815194,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Itaqui</name>
+      <Point><coordinates>-49.320117284600002,-25.5903305784,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Madre Teresa</name>
+      <Point><coordinates>-49.247543569900003,-25.554456071800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Marupiara Ii</name>
+      <Point><coordinates>-49.2819383402,-25.554679464300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Monteiro Lobato</name>
+      <Point><coordinates>-49.339583579200003,-25.568365829,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Paraná</name>
+      <Point><coordinates>-49.3383641028,-25.558112513600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Riacho Doce</name>
+      <Point><coordinates>-49.330765892099997,-25.5879884591,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Rio Bonito I</name>
+      <Point><coordinates>-49.341254088200003,-25.586343046300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Rio Bonito Ii</name>
+      <Point><coordinates>-49.342471084499998,-25.590889063100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Santa Lúccia</name>
+      <Point><coordinates>-49.259296212800002,-25.553490446600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Santa Tereza</name>
+      <Point><coordinates>-49.335894620799998,-25.554913247399998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias São João Del Rey</name>
+      <Point><coordinates>-49.272210778400002,-25.541610676600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Núcleo Habitacional Santa Efigênia</name>
+      <Point><coordinates>-49.257275457200002,-25.378476700899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Afonso Botelho</name>
+      <Point><coordinates>-49.275023697,-25.446785677400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Atuba</name>
+      <Point><coordinates>-49.208307434600002,-25.3773631404,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Bacacheri</name>
+      <Point><coordinates>-49.231267193100003,-25.390178736700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Bacacheri Ii</name>
+      <Point><coordinates>-49.228206901299998,-25.391527803399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Barigui</name>
+      <Point><coordinates>-49.306549672700001,-25.4247877468,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Barigui Ii</name>
+      <Point><coordinates>-49.314562557099997,-25.429592962299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Caiuá</name>
+      <Point><coordinates>-49.350347235100003,-25.489248604099998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Cambuí</name>
+      <Point><coordinates>-49.329442217299999,-25.478434616400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Diadema</name>
+      <Point><coordinates>-49.3487155957,-25.491445092100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Do Semeador</name>
+      <Point><coordinates>-49.249729127899997,-25.539151352600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Dos Peladeiros</name>
+      <Point><coordinates>-49.193436234899998,-25.480353900099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Lago Azul</name>
+      <Point><coordinates>-49.267734920700001,-25.5751681942,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Linear Cajuru</name>
+      <Point><coordinates>-49.199661117200002,-25.445642233699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Linear Cajuru</name>
+      <Point><coordinates>-49.1933575706,-25.459769208600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Mairi</name>
+      <Point><coordinates>-49.33510752,-25.4793445279,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Mané Garrincha</name>
+      <Point><coordinates>-49.337601949700002,-25.512024094400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Mané Garrincha Ii</name>
+      <Point><coordinates>-49.336034415199997,-25.506809022399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque São Lourenço</name>
+      <Point><coordinates>-49.267364944,-25.386121937599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Tingui</name>
+      <Point><coordinates>-49.305504166399999,-25.389012198900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Túlio Vargas</name>
+      <Point><coordinates>-49.347648475600003,-25.456933464599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Yberê</name>
+      <Point><coordinates>-49.344865460900003,-25.590353816,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Passeio Público</name>
+      <Point><coordinates>-49.267530674299998,-25.424016722099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça 29 De Março</name>
+      <Point><coordinates>-49.285210316799997,-25.42773568,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Abib Isfer</name>
+      <Point><coordinates>-49.292681422699999,-25.4541731349,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Abílio De Abreu</name>
+      <Point><coordinates>-49.2470703145,-25.457969440199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Abílio De Oliveira Mendes</name>
+      <Point><coordinates>-49.293331144500002,-25.498674589699998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Acir Macedo Guimarães</name>
+      <Point><coordinates>-49.270051165300004,-25.3699877755,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Adolfo João Hilário Da Veiga</name>
+      <Point><coordinates>-49.353948786099998,-25.449103489599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Alberto Massuda</name>
+      <Point><coordinates>-49.260409365699999,-25.5285503351,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Alcir Teixeira</name>
+      <Point><coordinates>-49.269737358199997,-25.508648439600002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Alfredo Hauer</name>
+      <Point><coordinates>-49.256011680900002,-25.482610888499998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Amaro Bernardo Velloso</name>
+      <Point><coordinates>-49.249307942800002,-25.517816854900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Amazires Bley Davet</name>
+      <Point><coordinates>-49.2596737748,-25.491059394800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Anibal Afonso</name>
+      <Point><coordinates>-49.274235128900003,-25.357168603200002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Anna Maurer Rutz</name>
+      <Point><coordinates>-49.2470273335,-25.3827826363,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Antônio Bertoli</name>
+      <Point><coordinates>-49.334313809,-25.3873509085,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Antônio Gunha</name>
+      <Point><coordinates>-49.298716976400001,-25.458558318800002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Antônio Sebastião Da Cunha Gebran</name>
+      <Point><coordinates>-49.338674043799998,-25.548378335399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Bela Vista Do Passaúna</name>
+      <Point><coordinates>-49.356603732700002,-25.499051424299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Bento Mossurunga</name>
+      <Point><coordinates>-49.229204209,-25.4580811262,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Bento Munhoz Da Rocha Neto</name>
+      <Point><coordinates>-49.2776043601,-25.465379724600002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Bernardo Manoel Hostin</name>
+      <Point><coordinates>-49.2042256565,-25.428269219200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Brasílica Dos Santos Muniz</name>
+      <Point><coordinates>-49.279849520299997,-25.512555266,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Brigadeiro Do Ar Mário Calmon Eppinghaus</name>
+      <Point><coordinates>-49.253404269800001,-25.414682487,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Cabo Nacar</name>
+      <Point><coordinates>-49.237530304099998,-25.536326906100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Carlos Raul Heller</name>
+      <Point><coordinates>-49.255515980200002,-25.5369319749,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Cláudio Manoel De Loyola E Silva</name>
+      <Point><coordinates>-49.250654498800003,-25.532899156399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Comendador Bortholo Pellanda Netto</name>
+      <Point><coordinates>-49.2835526187,-25.530082115,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Coronel Adélio Conti</name>
+      <Point><coordinates>-49.216887252100001,-25.3971928476,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Cova Da Íria</name>
+      <Point><coordinates>-49.2299294488,-25.4322897453,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Cícero Portes</name>
+      <Point><coordinates>-49.265547174799998,-25.526804288299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Da Alemanha</name>
+      <Point><coordinates>-49.229825937800001,-25.416391978299998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Da Colonização Menonita</name>
+      <Point><coordinates>-49.247918150399997,-25.505447676100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Da França</name>
+      <Point><coordinates>-49.298765452,-25.451300006499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Da Liberdade</name>
+      <Point><coordinates>-49.199120364400002,-25.404304928799998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Da União</name>
+      <Point><coordinates>-49.321454306500002,-25.4963733214,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Das Tendas</name>
+      <Point><coordinates>-49.257952423200003,-25.543832886099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Desembargador Francisco Cunha Pereira</name>
+      <Point><coordinates>-49.270676863299997,-25.411863378300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Do Conjunto Residencial Solimões</name>
+      <Point><coordinates>-49.2921749482,-25.416773363899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Do Hospital Bairro Novo</name>
+      <Point><coordinates>-49.260836298100003,-25.5481654381,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Dom Geraldo Fernandes</name>
+      <Point><coordinates>-49.246261497,-25.481509577699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Doutor Ewaldo Riedel</name>
+      <Point><coordinates>-49.356566675499998,-25.454187192,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Doutor João Paul</name>
+      <Point><coordinates>-49.277264628300003,-25.479722101899998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Doutor João Visinoni</name>
+      <Point><coordinates>-49.305576104899998,-25.476289907400002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Edison Valmir Ferreira</name>
+      <Point><coordinates>-49.199649714,-25.483270977299998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Elias Abdo Bittar</name>
+      <Point><coordinates>-49.280182061399998,-25.461377616499998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Emirados Árabes Unidos</name>
+      <Point><coordinates>-49.283982718499999,-25.542990274499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Enoch Araújo Ramos</name>
+      <Point><coordinates>-49.324667799399997,-25.506088620900002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Flausina Ribeiro De Loyola</name>
+      <Point><coordinates>-49.2382238143,-25.465078520599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Frei Jorge Dudu Da Silva</name>
+      <Point><coordinates>-49.202782865099998,-25.4881008029,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça General Plínio Tourinho</name>
+      <Point><coordinates>-49.255157397300003,-25.440357029200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Gregório Piatkowski</name>
+      <Point><coordinates>-49.341236171399999,-25.474590595900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Gustavo Schneider</name>
+      <Point><coordinates>-49.241044967100002,-25.532955326100002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Hayao Washida</name>
+      <Point><coordinates>-49.2453523183,-25.4375091516,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Himmer Macorin Lombardi</name>
+      <Point><coordinates>-49.328836076199998,-25.491547239399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Imer Collares Marques</name>
+      <Point><coordinates>-49.261966677399997,-25.4991607973,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Ipiranga</name>
+      <Point><coordinates>-49.276024645900002,-25.471080909200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Ivan Frerreira Do Amaral Filho</name>
+      <Point><coordinates>-49.225886975100003,-25.463337176100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Jardim Alegre</name>
+      <Point><coordinates>-49.250146205,-25.549095613,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Joaquim Fernandes Lopes</name>
+      <Point><coordinates>-49.3621597657,-25.420495648199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça José Antônio Da Silva</name>
+      <Point><coordinates>-49.211035050500001,-25.496726635200002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça José Bório</name>
+      <Point><coordinates>-49.345280553899997,-25.485667898100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça José Fressato</name>
+      <Point><coordinates>-49.3791274632,-25.4562155108,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça José Luiz Franceschi</name>
+      <Point><coordinates>-49.269186090600002,-25.527787693400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça José Soares Grobe</name>
+      <Point><coordinates>-49.2715322743,-25.548664580800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Júlio Cézar Amaral De Souza</name>
+      <Point><coordinates>-49.361978387500002,-25.412013493300002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Lafayette Queirolo</name>
+      <Point><coordinates>-49.223474993099998,-25.471704066299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Lenyr Marés De Souza Cavallin</name>
+      <Point><coordinates>-49.247552025799997,-25.5582874463,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Lineu Ferreira Do Amaral</name>
+      <Point><coordinates>-49.246305900400003,-25.492134353099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Luiz Fernando Mainardes</name>
+      <Point><coordinates>-49.285786465900003,-25.493964289,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Luiz Geraldo Caillet Ferreira Dos Santos</name>
+      <Point><coordinates>-49.349969090099997,-25.475447433199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Maestro Fernando Alves</name>
+      <Point><coordinates>-49.252095407,-25.5252982457,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Manoel Borba</name>
+      <Point><coordinates>-49.284185775300003,-25.523329545599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Mansueden Dos Santos Prudente</name>
+      <Point><coordinates>-49.218121906299999,-25.434982718499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Marco Aurélio Malucelli</name>
+      <Point><coordinates>-49.3435321109,-25.429137280500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Marçal Justen</name>
+      <Point><coordinates>-49.257944398900001,-25.534096631899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Max Sesselmier</name>
+      <Point><coordinates>-49.197289124500003,-25.414759569,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Moradias Da Ordem</name>
+      <Point><coordinates>-49.334756176900001,-25.558588302899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Mário Vendramel</name>
+      <Point><coordinates>-49.248617094300002,-25.449850139399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Napoleão Côrtes Filho</name>
+      <Point><coordinates>-49.258114430100001,-25.541530093399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Nei Gonçalves De Paula</name>
+      <Point><coordinates>-49.234587347,-25.526733374900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Nelson Saternaski Monteiro</name>
+      <Point><coordinates>-49.275620795599998,-25.515840411900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Neuma Cortes Monclaro</name>
+      <Point><coordinates>-49.342774206900003,-25.417382208500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Nossa Senhora Do Carmo</name>
+      <Point><coordinates>-49.237259741099997,-25.500392332400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Nova Republica</name>
+      <Point><coordinates>-49.287877692800002,-25.503714125199998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Oswaldo Cruz</name>
+      <Point><coordinates>-49.275665243699997,-25.440719873399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Ouvidor Pardinho</name>
+      <Point><coordinates>-49.271925742699999,-25.443737446499998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Padre Agostinho Legros</name>
+      <Point><coordinates>-49.235922923,-25.517697524599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Padre Dário Zampiero</name>
+      <Point><coordinates>-49.307954663799997,-25.470318255199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Padre Giovanni Graceffa</name>
+      <Point><coordinates>-49.283137993099999,-25.392463925800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Pastor João Emílio Henck</name>
+      <Point><coordinates>-49.276085059400003,-25.489203113199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Paulino José Schmitt</name>
+      <Point><coordinates>-49.2032924855,-25.481763166699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Pedro De Almeida</name>
+      <Point><coordinates>-49.206849657799999,-25.394208119799998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Piazza San Marco</name>
+      <Point><coordinates>-49.330343174100001,-25.401504047500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Plínio Anciutti Pessôa</name>
+      <Point><coordinates>-49.351357907599997,-25.456930945300002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Primo Favretto</name>
+      <Point><coordinates>-49.279560808600003,-25.4976648393,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Professor Emílio Schutz</name>
+      <Point><coordinates>-49.216264832599997,-25.454175184699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Professor Jorge Visca</name>
+      <Point><coordinates>-49.319169395199999,-25.509127855700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Professora Marli De Queiroz Azevedo</name>
+      <Point><coordinates>-49.263936566700004,-25.5477109642,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Recanto Dos Eucaliptos</name>
+      <Point><coordinates>-49.2417742437,-25.528848258699998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Reinaldo Alberti</name>
+      <Point><coordinates>-49.318653667200003,-25.584673606700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Renato Russo</name>
+      <Point><coordinates>-49.207733295600001,-25.493705436199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Renato Zorze</name>
+      <Point><coordinates>-49.227110620200001,-25.471747819,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Reverendo Oswaldo Soero Emrich</name>
+      <Point><coordinates>-49.270859513399998,-25.5276100476,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Ronald Golias</name>
+      <Point><coordinates>-49.353503049099999,-25.4359700917,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Ruth Portes Polsaque</name>
+      <Point><coordinates>-49.357801448499998,-25.455228119800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Santa Rosa</name>
+      <Point><coordinates>-49.340910725,-25.471038299,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Soldado Wagner Alves Sampaio</name>
+      <Point><coordinates>-49.3388192667,-25.5662575767,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Tito Schier</name>
+      <Point><coordinates>-49.293221645400003,-25.478988445599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Vêneto</name>
+      <Point><coordinates>-49.341984314299999,-25.3982744831,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Waldomiro Rauth</name>
+      <Point><coordinates>-49.229162852599998,-25.517300715299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Walt Disney</name>
+      <Point><coordinates>-49.2184807358,-25.447965745200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Zumbi Dos Palmares</name>
+      <Point><coordinates>-49.291159738700003,-25.508145551399998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Adib João Sallum</name>
+      <Point><coordinates>-49.2742734451,-25.524794277200002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Aldo Laval</name>
+      <Point><coordinates>-49.339158221799998,-25.496728621100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Canal Belém</name>
+      <Point><coordinates>-49.233759568700002,-25.486400391099998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Capitão Leônidas Marques</name>
+      <Point><coordinates>-49.2215296886,-25.467532843299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Cleto Da Silva</name>
+      <Point><coordinates>-49.2557411668,-25.493251525600002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Da Cidadania Cajuru</name>
+      <Point><coordinates>-49.219951881699998,-25.441466970600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Da Cidadania Pinheirinho</name>
+      <Point><coordinates>-49.295458387300002,-25.514608680599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Diogo Mugiatti</name>
+      <Point><coordinates>-49.221178585899999,-25.5076211298,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Emílio Romani</name>
+      <Point><coordinates>-49.333945092,-25.5334668267,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Erasmo Maeder</name>
+      <Point><coordinates>-49.211461877600001,-25.417681202499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Gentil Antunes Branco</name>
+      <Point><coordinates>-49.328933247800002,-25.376601763699998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Horacy Santos</name>
+      <Point><coordinates>-49.229701046,-25.525392467900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Jussara</name>
+      <Point><coordinates>-49.268049822599998,-25.5537593279,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Manife Tacla</name>
+      <Point><coordinates>-49.2809142065,-25.3871225814,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Nelson Pizzani</name>
+      <Point><coordinates>-49.330812731199998,-25.5181060046,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Orestes Thá</name>
+      <Point><coordinates>-49.331535735400003,-25.511898742,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Osíris Del Corso</name>
+      <Point><coordinates>-49.1987784819,-25.467972183299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Paulo De Frontin</name>
+      <Point><coordinates>-49.213795588300002,-25.462241907599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Pedro Gusso</name>
+      <Point><coordinates>-49.3215080955,-25.5062065023,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Presidente João Goulart</name>
+      <Point><coordinates>-49.331518620200001,-25.577337909099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Professor Algacyr Munhoz Mader</name>
+      <Point><coordinates>-49.311891179600003,-25.494036446900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Reinaldo Pazello</name>
+      <Point><coordinates>-49.307946349700003,-25.460639834799998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Ulisses José Ribeiro</name>
+      <Point><coordinates>-49.230726204500002,-25.474162078,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Vereador Aurélio Mader Gonçalves</name>
+      <Point><coordinates>-49.266456805399997,-25.517937034300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rua Ângelo Massignan</name>
+      <Point><coordinates>-49.351671559499998,-25.4036718626,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Velódromo Municipal</name>
+      <Point><coordinates>-49.242070010699997,-25.4435386832,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Acrópole</name>
+      <Point><coordinates>-49.190068248300001,-25.470354505300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Nossa Senhora Da Luz</name>
+      <Point><coordinates>-49.3227165439,-25.503607132500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Pantanal</name>
+      <Point><coordinates>-49.2327046646,-25.5373352975,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Parolin</name>
+      <Point><coordinates>-49.264588259600004,-25.465996497599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Verde</name>
+      <Point><coordinates>-49.337883066499998,-25.5302276478,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
