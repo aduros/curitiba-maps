@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Médicos" id="Médicos">
+	<SimpleField name="categoria" type="string"></SimpleField>
+</Schema>
+<Folder><name>Médicos</name>
+  <Placemark>
+	<name>Abaeté</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.245754521400002,-25.3800586069,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abranches</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.273032168199997,-25.381543777299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alvorada</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.206853587399998,-25.494977903199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atenas</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.354391419199999,-25.453856801699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atuba</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.204069941900002,-25.3947234655,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Augusta</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.349935489899998,-25.456790264599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aurora</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.308638268,-25.491200262700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bacacheri</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.239581299900003,-25.400756448199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bairro Alto</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.205200239,-25.4139544306,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bairro Novo</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.263510188700003,-25.547107467299998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bairro Novo</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Atendimento Psicosocial (CAPS)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.291738637800002,-25.5275053023,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barigui</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.335528265,-25.495884785600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barreirinha</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.263391666799997,-25.3640612588,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bigorrilho</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Atendimento Psicosocial (CAPS)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2970055734,-25.4418423909,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boa Vista</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Atendimento Psicosocial (CAPS)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.243822006800002,-25.4007126821,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boa Vista</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Atendimento Psicosocial (CAPS)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.236920905799998,-25.4113843244,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boa Vista</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Atendimento Psicosocial (CAPS)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2412692937,-25.405222862799999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bom Pastor</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.301270489,-25.413525030300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boqueirão</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Atendimento Psicosocial (CAPS)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.261431781900001,-25.495636766200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Butiatuvinha</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.350637381200002,-25.392096462600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caiuá</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.353554582900003,-25.484057909600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cajuru</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.217656505500003,-25.452204326499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cajuru</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Atendimento Psicosocial (CAPS)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.247807036899999,-25.4578338472,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Camargo</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2148903358,-25.461727156,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Campina Do Siqueira</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3075273376,-25.437786153299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Campo Alegre</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.318798718799997,-25.497656827899998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Capanema</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.246956861699999,-25.449993946900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caximba</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.346508252699998,-25.618953708900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Centro Vida</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Atendimento Psicosocial (CAPS)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.300579001800003,-25.455339160099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cic</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Atendimento Psicosocial (CAPS)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.347948086,-25.4468082711,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Concórdia</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.287417748400003,-25.528521285699998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coqueiros</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2649402403,-25.534977163499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cândido Portinari</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.349301961199998,-25.493274937300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dom Bosco</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.319444971800003,-25.584547066500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Enccantar</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Especialidades Médicas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.284299588899998,-25.425948175399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Engenheiro Luiz Luscar Lazof - Vila Esperança</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.197877976599997,-25.38478561,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Esmeralda</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.269645933,-25.508286061500002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Estrela</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.317996521799998,-25.477523398500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eucaliptos</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.241020309100001,-25.52884909,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fanny-Lindoia</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2727047642,-25.478721606,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fernando De Noronha</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2381611928,-25.376698777400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Higienópolis</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.216359721099998,-25.412743106800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ipiranga</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.289741235900003,-25.502055141100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Iracema</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.217706686,-25.434105986100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Irmã Tereza Araújo</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.225837844700003,-25.516614395800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Gabineto</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.360293121600002,-25.439204120700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Paranaense</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.240607642699999,-25.540924456799999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>João Cândido</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.258372183200002,-25.541329984200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lotiguaçu</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.203603852500002,-25.4857045324,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maria Angélica</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2707746138,-25.527153865,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Matriz</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Especialidades Médicas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.271829181500003,-25.432986726399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Medianeira</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.260039446100002,-25.391244724500002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Menonitas</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.256868617099997,-25.510429813399998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monteiro Lobato</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.335295276799997,-25.575312155500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Belém</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2216087798,-25.5072738213,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Da Ordem</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.331833250700001,-25.558799494100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Santa Rita</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.333523142099999,-25.566206045400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mãe Curitibana</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.277262462099998,-25.426492728700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nossa Senhora Aparecida</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2522134329,-25.544619146500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nossa Senhora Da Luz</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.324652839700001,-25.5048265181,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nossa Senhora Do Sagrado Coração</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.295146174199999,-25.529128708399998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nova Orleans</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3532084884,-25.428662639300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Orientação E Aconselhamento - Coa</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Especialidades Médicas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.272960205099999,-25.428141865800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Osternack</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.247292092099997,-25.551197731199998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oswaldo Cruz</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.323703398299998,-25.512106177300002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ouvidor Pardinho</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.271616563,-25.443911637300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palmeiras</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.294244073199998,-25.554020184500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pantanal</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.232685782200001,-25.536284736900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parigot De Souza</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.265373131899999,-25.526668186799998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parolin</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.266146224400003,-25.468113605500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Industrial</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.304340241600002,-25.507949226699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pilarzinho</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.283225443900001,-25.387853159,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pinheirinho</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Atendimento Psicosocial (CAPS)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.296889048499999,-25.509637239500002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pinheiros</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.333933194300002,-25.3875787628,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pompéia</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.318060567099998,-25.563137790300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Portão</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Atendimento Psicosocial (CAPS)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.296101306899999,-25.452529677600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Portão</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Atendimento Psicosocial (CAPS)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.268591316600002,-25.452685358699998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Positivo</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Especialidades Odontológicas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.358378329899999,-25.445253689,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rio Bonito</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.340465931300002,-25.591206863,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rosário</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Especialidades Odontológicas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.273119098099997,-25.4282082205,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sabará</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.347695700700001,-25.5012584342,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salgado Filho</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.222811057,-25.488521911300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salgado Filho</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Especialidades Médicas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.222838431200003,-25.488375229900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salvador Allende</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.277175408300003,-25.5433958132,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sambaqui</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.261340905499999,-25.558003299599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Amélia</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.325400096300001,-25.484765877,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Cândida</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.223496568199998,-25.375571697600002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Efigênia</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.256541699,-25.376789789,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Felicidade</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.328438374,-25.402269084499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Felicidade</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Especialidades Médicas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.350908637099998,-25.412580034400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Quitéria</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.316711253100003,-25.461766301400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Quitéria 2</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.304291007400003,-25.462511339900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santos Andrade</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.325036526399998,-25.4571055334,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Solitude</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.196151081,-25.477240314500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sylvio Gevaerd</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Especialidades Odontológicas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.295014235899998,-25.470737611899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Braz</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.347857959199999,-25.418593676699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Domingos</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.198130234,-25.468094708700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São José</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.378959758100002,-25.456789937900002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São João Del Rey</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.273325057299999,-25.537517533,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Miguel</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.336763787700001,-25.480280601600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Paulo</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.235861377699997,-25.4837349033,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Pedro</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.269936245899999,-25.521169280900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Taiz Viviane Machado</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.328796815899999,-25.515847939499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tancredo Neves</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.343412730499999,-25.475044347299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tapajós</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.260526094100001,-25.491451162099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tarumã</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2018672528,-25.423707613400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tingui</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.223546322399997,-25.382948688700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trindade</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.205943194699998,-25.4519102121,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trindade 2</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.204886849399998,-25.4615459581,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Uberaba De Cima</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.215759886500003,-25.479040186,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Umbará</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.284261698100003,-25.554884263400002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Umbará 2</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.285127413799998,-25.5682654282,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>União Das Vilas</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.360920647100002,-25.4210850913,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Clarice</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.283120544699997,-25.490043249500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Diana</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.268807358700002,-25.3679787397,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Feliz</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.303516022300002,-25.497152936599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Guaíra</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.277356430600001,-25.466733200299998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Hauer</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2454792232,-25.482081765899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Hauer</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Centro de Especialidades Médicas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.245356533399999,-25.482139659800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Leonice</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.263075779600001,-25.353122451,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Leão</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.302180201,-25.4848311694,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Machado</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.304051786599999,-25.518576806900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Sandra</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.342182157400003,-25.464571059099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Verde</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3350032902,-25.530020245300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Visitação</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.242728319599998,-25.518439071300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vista Alegre</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.290813511099998,-25.392735436100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vitória Régia</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.337539695399997,-25.5442643485,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waldemar Monastier</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.227468840299998,-25.497392761,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xapinhal</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.280109624,-25.5339095181,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xaxim</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.277218957800002,-25.516500471400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Érico Veríssimo</name>
+	<ExtendedData><SchemaData schemaUrl="#Médicos">
+		<SimpleData name="categoria">Unidades de Saúde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.250586333800001,-25.533182350800001,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

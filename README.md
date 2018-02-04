@@ -6,4 +6,5 @@ Human friendly maps of municipal services in Curitiba, Brazil. Data provided by 
 
 ## Lista de mapas
 
-- [Fitness](https://www.google.com/maps/d/u/0/viewer?mid=1lgmM_MqZFKN5wjrs0_EMYVsMrPlKJo3_)
+- [Fitness e Lazer](https://www.google.com/maps/d/u/0/viewer?mid=1lgmM_MqZFKN5wjrs0_EMYVsMrPlKJo3_)
+- [Saúde e Social](https://www.google.com/maps/d/u/0/viewer?mid=1tw_8LbhLFZc9T7rXKc1wrac-5MIirq2J)

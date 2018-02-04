@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Serviços_Social" id="Serviços_Social">
+	<SimpleField name="categoria" type="string"></SimpleField>
+	<SimpleField name="email" type="string"></SimpleField>
+	<SimpleField name="telefone" type="string"></SimpleField>
+</Schema>
+<Folder><name>Serviços_Social</name>
+  <Placemark>
+	<name>Acrópole</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasacropole@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3266-7471</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.193382359499999,-25.4790168195,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alto Bela Vista</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasaltobelavista@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3288-6409</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.357444362899997,-25.489609104500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alto Boqueirão</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasaltoboqueirao@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3286-1655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.233644215299996,-25.5263110048,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arroio</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Cic@Fas.Curitiba.Pr.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3268-3944</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3208715568,-25.518322596200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Asa Branca</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasatuba@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3356-8344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.196646617500001,-25.3826821187,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atuba</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Boavista@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3356-7352</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.200946590500003,-25.3848469472,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Audi-União</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro da Juventude</SimpleData>
+		<SimpleData name="email">Portaldofuturo@Pmc.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3364-2434</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2010033623,-25.497201003800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Autódromo</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Cajuru@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3366-5942</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.200725308499997,-25.450861531,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bairro Alto</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Boavista@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3315-2296</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.205108087600003,-25.4132399388,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bairro Novo</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Rua da Cidadania</SimpleData>
+		<SimpleData name="email">Arbairronovosgm@Sgm.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3289-4141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.265945596100003,-25.545149841899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bairro Novo</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Bairronovo@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3289-5396</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.265423895399998,-25.544224536400002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bairro Novo</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Clube da Gente</SimpleData>
+		<SimpleData name="email">Portaldofuturo@Pmc.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3265-4041</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.262977961799997,-25.544621594900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barigui</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasbarigui@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3212-1526</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.340014774,-25.497473896100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boa Vista</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Rua da Cidadania</SimpleData>
+		<SimpleData name="email">Arboavistasgm@Sgm.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3313-5710</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.232426959800001,-25.385037887799999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boa Vista</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Boavista@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3313-5686</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.247151951600003,-25.375209108899998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bom Menino</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Stafelicidade@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3336-3689</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.316502518100002,-25.440931075600002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boqueirão</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Rua da Cidadania</SimpleData>
+		<SimpleData name="email">Arboqueiraosgm@Sgm.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3313-5502</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.237930862799999,-25.501317276799998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boqueirão</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Boqueirao@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3278-2342</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.238687329400001,-25.5002260248,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Butiatuvinha</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Stafelicidade@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3272-3758</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.349689462800001,-25.393546277700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cachoeira</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Boavista@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3240-1302 / 3585-0840</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.266177095300002,-25.353229364,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cajuru</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Rua da Cidadania</SimpleData>
+		<SimpleData name="email">Arcajurusgm@Sgm.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3361-2368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.220689027200002,-25.441732523,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cajuru</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Cajuru@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3267-1046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.218368010500001,-25.456938017399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caximba</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Faspinheirinho@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3265-6977</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.348679369,-25.621127041899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cic</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Rua da Cidadania</SimpleData>
+		<SimpleData name="email">Arcicsgm@Sgm.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3212-1555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.319656246,-25.514459652799999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cic</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Clube da Gente</SimpleData>
+		<SimpleData name="email">Portaldofuturo@Pmc.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3229-4310</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.349523428700003,-25.489326012199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Corbélia</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3332-1999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.355846079800003,-25.506410368299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dom Bosco</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Faspinheirinho@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-9256</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3191495433,-25.5856174368,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eucaliptos</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro da Juventude</SimpleData>
+		<SimpleData name="email">Portaldofuturo@Pmc.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3286-4082</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.241422349799997,-25.529644441599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fazendinha</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasportao@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3288-2603</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3247145319,-25.479980016500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fazendinha-Portão</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Rua da Cidadania</SimpleData>
+		<SimpleData name="email">Arportaosgm@Sgm.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3350-3993</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.326780582300003,-25.478046154699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Iguape Cidadania</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasiguape@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3287-8908</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.225694836099997,-25.508153679900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Iguaçu</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasiguacu@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3226-3346</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.197792985500001,-25.456418123599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Gabineto</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasjardimgabineto@Fas.Curitiba.Pr.Gov.B</SimpleData>
+		<SimpleData name="telefone">(41) 3372-6190</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.355487054299999,-25.438769517600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laguna</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Faspinheirinho@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3396-5947</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.328648293900002,-25.568667454700002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Madre Tereza</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasmadretereza@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3289-2464</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.246987990299999,-25.554579617400002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Matriz</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Rua da Cidadania</SimpleData>
+		<SimpleData name="email">Armatrizsgm@Sgm.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3313-5799</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.272220422499998,-25.435533273499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Matriz</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasmatriz@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3313-5851 / 3313-5854</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.271864655500003,-25.4356451594,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monteiro Lobato</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasmonteirolobato@Fas.Curitiba.Pr.Gov.B</SimpleData>
+		<SimpleData name="telefone">(41) 3265-0633</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.338391507300003,-25.5756217512,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Paraná</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">3265-8943</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.338207687900002,-25.558000504900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nossa Senhora Da Luz</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasluz@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3248-2246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3242851049,-25.505153439400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Novo Mundo</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasnovomundo@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3327-4204</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.275882821700002,-25.469712941099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parolin</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Portao@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3333-9919</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.263061664600002,-25.4651440349,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pilarzinho</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Craspilarzinho@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3338-3554</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.284061404699997,-25.388139712800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pinheirinho</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Rua da Cidadania</SimpleData>
+		<SimpleData name="email">Arpinheirinhosgm@Sgm.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3313-5455</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.295106669699997,-25.513912930299998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pinheirinho</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Craspinheirinho@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3313-5468</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.295382608899999,-25.5138125185,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pompéia</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Craspompeia@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3396-5476</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.314821342499997,-25.561911356500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Portão</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasportao@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3248-6470</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.295486273599998,-25.480470609400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rio Bonito</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasriobonito@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3225-8767</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.338523719800001,-25.586204008799999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sambaqui</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Bairronovo@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3564-8211</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.261509050599997,-25.557784850200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Felicidade</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Rua da Cidadania</SimpleData>
+		<SimpleData name="email">Arsantafelicidadesgm@Sgm.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3374-5284</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.330102606799997,-25.400652384299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Felicidade</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Stafelicidade@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3374-5930</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.329601722699998,-25.400935332700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Rita</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3396-1818</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.339037639899999,-25.565263529900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Braz</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3374-5043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.358068344700001,-25.414466529199998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Carlos</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">3265-5873</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.299857086899998,-25.537394778399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Fernando</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Portao@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3245-3905</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.327684251400001,-25.4726870611,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São José Do Passaúna</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Cic@Fas.Curitiba.Pr.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3373-5847</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.378944916099996,-25.456583456099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tatuquara</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Rua da Cidadania</SimpleData>
+		<SimpleData name="email">Artatuquarasgm@Sgm.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3265-4191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.331791126399999,-25.5753677063,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tatuquara</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Clube da Gente</SimpleData>
+		<SimpleData name="email">Portaldofuturo@Pmc.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3396-3142</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.327886242200002,-25.563041686799998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terra Santa</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Faspinheirinho@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3265-6014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.318048660199999,-25.558828611599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Uberaba</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3364-2944</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.207474222099997,-25.488766363900002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Umbará</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Bairronovo@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3348-0395</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.284196554600001,-25.555572446100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>União Ferroviária</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Cajuru@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3575-1291</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.202955040799999,-25.494058193400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Hauer</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Boqueirao@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3377-5753</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.251718259199997,-25.490606912400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Sandra</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Crasvilasandra@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3373 5838</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.348729838799997,-25.455292401,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila São Pedro</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Boqueirao@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3346-0682</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.276489882500002,-25.516062933099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Torres</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Matriz@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3218-2405</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.247393517,-25.4500318041,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Verde</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Cic@Fas.Curitiba.Pr.Br</SimpleData>
+		<SimpleData name="telefone">(410 3268-6436</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.335455536799998,-25.530777643299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Verde</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Cic@Fas.Curitiba.Pr.Br</SimpleData>
+		<SimpleData name="telefone">3347-3633</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.337583714300003,-25.5296395606,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xapinhal</name>
+	<ExtendedData><SchemaData schemaUrl="#Serviços_Social">
+		<SimpleData name="categoria">Centro de Referência da Assistência Social (CRAS)</SimpleData>
+		<SimpleData name="email">Bairronovo@Fas.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3227-6933</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.276081913799999,-25.5314083608,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

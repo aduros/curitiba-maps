@@ -1,0 +1,1676 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Escolas" id="Escolas">
+	<SimpleField name="categoria" type="string"></SimpleField>
+	<SimpleField name="email" type="string"></SimpleField>
+	<SimpleField name="telefone" type="string"></SimpleField>
+</Schema>
+<Folder><name>Escolas</name>
+  <Placemark>
+	<name>Albert Schweitzer</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emalbert@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3246-2028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.323703817599998,-25.503904770199998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ali Bark</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emalibark@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3242-9713</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.312648316900002,-25.4445996679,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ana Hella</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emanahella@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3338-1210</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.297681408599999,-25.399440183700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anita Merhy Gaertner</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emanitagaertner@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3373-0798</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.361072108099997,-25.436563045700002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anísio Teixeira</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emanisio@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3256-2393</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.201119921,-25.384394253499998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arapongas</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emarapongas@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3246-8541</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.287232310500002,-25.483201344299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Araucária</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emaraucaria@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3367-3132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.207189604900002,-25.4037685905,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Augusto César Sandino</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emaugustosandino@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3256-6636</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.232394388800003,-25.364066085099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ayrton Senna Da Silva</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emayrtonsena@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3226-7677</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.192126008599999,-25.470756953399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bairro Novo Do Caic Guilherme Lacerda Braga Sobrinho</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emcaicguilherme@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3289-3055</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.261403095600002,-25.542591417400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Batel</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Embatel@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3324-1321</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.281669878300001,-25.436281124899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bela Vista Do Paraíso</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Embelavista@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3256-6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.210979516499997,-25.3664274759,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Belmiro César</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Embelmirocesar@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3569-4768</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.271022012,-25.479909057899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caic Cândido Portinari</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emcaicportinari@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3249-4716</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.349861636,-25.496396211899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Campo Mourão</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emcampomourao@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3243-0680</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.298898691399998,-25.459695268,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caramuru</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emcaramuru@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3352-1678</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.255353567299998,-25.3981098372,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carlos Drummond De Andrade</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emcarlosdrummond@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3289-5655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2532628847,-25.5546057255,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castro</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emcastro@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3378-6462</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.256523423200001,-25.5249933359,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cerro Azul</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emcerroazul@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3256-6384</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.216596803400002,-25.390642732300002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Colombo</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emcolombo@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3349-4353</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.277878298899999,-25.5375013084,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Colônia Augusta</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emcaugusta@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3249-5728</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.359479251400003,-25.478568919200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coronel Durival Britto E Silva</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emdurivalbrito@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3366-2989</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.215783125,-25.448132473299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Curitiba Ano 300</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emctbaanotrezentos@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3367-1344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.206350531399998,-25.414568141,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>David Carneiro</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emdavidcarneiro@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3378-6364</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.266845834500003,-25.523096049300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Desembargador Marçal Justen</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmarcaljusten@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3244-0623</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.283027457199999,-25.463352339699998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ditmar Brepohl</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emdbrepohl@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3249-1177</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.347975998800003,-25.4730639705,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dom Bosco</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emdombosco@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3248-6080</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.315282897099998,-25.4961874818,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dom Manuel Da Silveira D´Elboux</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmdelboux@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3262-1627</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.243929701399999,-25.421203757200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dona Lula</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emdonalula@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3277-1571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.226351527799999,-25.486234524699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dona Lulu</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emdonalulu@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3289-4454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.251354780900002,-25.540241159499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dona Pompília</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emdonapompilia@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3396-2219</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.331506022200003,-25.559097926500002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Doutel De Andrade</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emdoutelandrade@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3257-3942</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.245649406600002,-25.3792121824,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Doutor Guilherme Lacerda Braga Sobrinho</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emguilhermebraga@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3278-3083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.223470852399998,-25.491768089600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Doutor Hamilton Calderari Leal</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emhamiltonleal@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3288-7463</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.354262419900003,-25.507564359900002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Doutor Osvaldo Cruz</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emoswaldocruz@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3248-4351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.306802351599998,-25.4876315536,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Duílio Calderari</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emdcalderari@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3354-7189</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.262258252599999,-25.386494488299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elevir Dionysio</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emedionisio@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3247-3904</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.273052526199997,-25.4839052759,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elza Lerner</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emelerner@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3266-6534</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2146689952,-25.461950466899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eny Caldeira</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emenycaldeira@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3256-2084</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.225851589199998,-25.388610184,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eva Da Silva</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emevasilva@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3267-3757</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.205276526200002,-25.441702973200002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Expedicionário</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emexpedicionario@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3248-2030</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.313487676699999,-25.4840139087,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Foz Do Iguaçu</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emfoziguacu@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3364-0585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.333878060099998,-25.380925448799999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Francisco Derosso</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emfcoderosso@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3275-1447</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.267390561600003,-25.498386826699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Francisco Frischmann</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emfcofrischmann@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3346-7011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.268155917599998,-25.526443153399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Francisco Klemtz</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emfcoklemtz@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3329-6100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.316088267399998,-25.472545440499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Governador Leonel De Moura Brizola</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emleonelbrizola@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3265-3044</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.325811480799999,-25.5662056633,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Graciliano Ramos</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emgraciliano@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3314-5135</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.326348278,-25.4870118943,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Heitor De Alencar Furtado</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emheitorfurtado@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3285-1533</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.349347283199997,-25.456950328200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Helena Kolody</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emhkolody@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3225-8350</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3372959485,-25.5857539621,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Helena Wladimirna Antipoff</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emantipoff@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3286-6969</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.221127751799997,-25.506857223899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Heráclito Fontoura Sobral Pinto</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emsobralpinto@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3289-5445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.257318021400003,-25.557679890199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Irati</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emirati@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3226-3632</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.202758346,-25.469967305499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Issa Nacli</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emissanacli@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3369-1617</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.213305842499999,-25.482318783699998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Itacelina Bittencourt</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emitacelina@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3333-7588</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.275407850900002,-25.470743863399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ivaiporã</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emivaipora@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3246-8662</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.290436708599998,-25.4961212925,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jaguariaíva</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjaguariaiva@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3256-0612</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2172841386,-25.396574774600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Europa</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjeuropa@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3346-0155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.279654089799998,-25.505561028199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Santo Inácio</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjsantoinacio@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3272-5741</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.328624859,-25.427962943800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Santos Andrade</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjsandrade@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3274-1038</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.325931347199997,-25.456644264,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joaquim Távora</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjtavora@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3246-8343</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.326321386300002,-25.515368091900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jornalista Arnaldo Alves Da Cruz</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emaacruz@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3378-3660</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.232887174399998,-25.5370617365,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jornalista Cláudio Abramo</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emclaudioabramo@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3246-8266</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.301849116200003,-25.5080565867,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>José Lamartine Corrêa De Oliveira Lyra</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjoselamartine@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3248-8442</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.306103290700001,-25.5192368927,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>João Amazonas</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjoaoamazonas@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3224-5026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.341268360400001,-25.591017732699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>João Macedo Filho</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjoaomacedo@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3366-3089</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.227261638100003,-25.472006585100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Júlia Amaral Di Lenna</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjuliadilenna@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3354-9544</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.257888050299997,-25.3765433881,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Júlio Moreira</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjuliomoreira@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3370-1585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3423595382,-25.417877712599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lapa</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emlapa@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3286-4745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.228491073400001,-25.510179815200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Leonor Castellano</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emlcastellano@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3286-1441</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.238176139899998,-25.520990207200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Madre Antônia</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmadreantonia@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3366-1615</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.214783964799999,-25.4257782472,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Madre Maria Dos Anjos</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmadremaria@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3246-1711</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.280561239900003,-25.489139038,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Madre Teresa De Calcutá</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmadreteresa@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3289-2322</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.254252514199997,-25.5372379141,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maestro Bento Mossurunga</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmaestrobento@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3378-2131</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.23848005,-25.537541709300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mansur Guérios</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmansurguerios@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3249-2896</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.348180892800002,-25.5014950375,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Margarida Orso Dallagassa</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emdallagassa@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3396-4397</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.315616102200003,-25.559341970199998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maria Clara Brandão Tesserolli</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmctesserolli@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3246-2210</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.287710863100003,-25.487954639,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maria Do Carmo Martins</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmcmartins@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3373-4566</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.344751757499999,-25.460265078500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maringá</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmaringa@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-4711</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2966181906,-25.5349536292,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marumbi</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmarumbi@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3364-1092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.202579565,-25.479440274200002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Michel Khury</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmichelkhury@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3364-2617</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.202189748400002,-25.489216112200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Miguel Krug</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmiguelkrug@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3345-5233</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.286072945299999,-25.474671128099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mirazinha Braga</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmirazinhabraga@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3338-6014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.281138347499997,-25.408931628200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monsenhor Boleslau Falarz</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emboleslau@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3372-2571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.356031699600003,-25.421322219299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monteiro Lobato</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmonteirolobato@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3246-8434</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.320220125,-25.501002900900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Do Ribeirão</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmribeirao@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3245-4799</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.339325562900001,-25.474618580400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newton Borges Dos Reis</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emnewtonborges@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3396-3427</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3338208252,-25.565739450599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nivaldo Braga</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emnivaldobraga@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3276-1062</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.244166661900003,-25.502587272700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Noely De Fátima Ávila</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3333-1739</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.247419243499998,-25.449815252099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nossa Senhora Da Luz Dos Pinhais</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emnsraluz@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3246-8025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.325114968199998,-25.5079757964,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nossa Senhora Do Carmo</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emnscarmo@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3278-3248</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.235306067499998,-25.498346283699998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nova Esperança</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emnesperanca@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-6288</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.331040103299998,-25.483567813800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nympha Maria Da Rocha Peplow</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emnymphapeplow@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3240-1136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.303878353899997,-25.412270548199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olívio Soares Sabóia</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emoliviosaboia@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3245-8066</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.347482406600001,-25.480609212400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Otto Bracarense Costa</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emobracarensecosta@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3314-5055</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.332248370599999,-25.512478059300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Padre Francisco Meszner</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emfcomeszner@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3373-9682</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.350796291400002,-25.435804955,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Padre José De Anchieta</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjoseanchieta@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-8836</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3216464749,-25.4807442681,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Padre João Cruciani</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjoaocruciani@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3274-5025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.327093551499999,-25.466754870799999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Papa João Xxiii</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Empapajoao@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3248-5282</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.299185451600003,-25.4789996929,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paranaguá</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emparanagua@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3370-1588</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.343566469,-25.428279143800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paranavaí</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emparanavai@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3275-5319</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.267279476299997,-25.5128196884,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paulo Freire</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Empaulofreire@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3289-5658</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.267832547,-25.5469587768,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paulo Rogério Guimarães Esmanhoto</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Empesmanhoto@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3564-6176</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2751178607,-25.5527929368,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pedro Dallabona</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Empdallabona@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3272-4681</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.356300552,-25.4293695597,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pedro Viriato Parigot De Souza</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emparigotsouza@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3378-7371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.269601468799998,-25.529017888199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pilarzinho</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Empilarzinho@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3335-1194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.294051002400003,-25.3887740208,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Piratini</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Empiratini@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-1422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.286999292399997,-25.5232356755,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Poeta João Cabral De Melo Neto</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjoaocabral@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3347-1107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.339882133800003,-25.530834499699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Prefeito Linneu Ferreira Do Amaral</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emlinneuamaral@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3266-8281</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.207895337899998,-25.452661517900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Prefeito Omar Sabbag</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emosabbag@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3361-2336</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.218212701799999,-25.4507262152,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Presidente Pedrosa</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emppedrosa@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3345-6422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2946626421,-25.466095702400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Presidente Tancredo De Almeida Neves</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emtancredoneves@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-6463</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.338405342400002,-25.484343966,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Adriano Gustavo Carlos Robine</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emarobine@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-5630</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.331371463,-25.480086846399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Antônio Pietruza</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emapietruza@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3348-2425</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.294198847700002,-25.550712864699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Brandão</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emprofbrandao@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3225-4813</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.263770054699997,-25.418273343199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Darcy Ribeiro</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emdarcyribeiro@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3396-1770</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.339082404199999,-25.560000074600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Dario Persiano De Castro Vellozo</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emdariovellozo@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-3198</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.334853823899998,-25.5093023009,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Enéas Marques Dos Santos</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emeneasmarques@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3361-2344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.219140890299997,-25.434124527600002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Erasmo Pilotto</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emerasmo@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3367-1666</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2033678321,-25.394592763,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Francisco Hübert</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emfcohubert@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3378-2728</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.246442300299996,-25.529972063399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Germano Paciornik</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emgpaciornik@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3286-5250</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.221376449399997,-25.5070356009,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Guilherme Butler</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emgbutler@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3277-1381</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.257475293600002,-25.489746897900002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Herley Mehl</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emherleymehl@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3338-4311</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.284303510100003,-25.388387707500002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor José Cavallin</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjosecavallin@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-5253</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.276060240699998,-25.544753812500002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor José Wanderley Dias</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjosewanderlei@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3257-2728</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.252858241600002,-25.375058030400002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Kó Yamawaki</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emkoyamawaki@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3367-5843</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.200528232800004,-25.420046407400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Lauro Esmanhoto</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emlesmanhoto@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3338-4322</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.295635058899997,-25.380105288500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Leonel Moro</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emleonelmoro@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3346-6656</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.277069436399998,-25.517624338899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Osvaldo Arns</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emosvaldoarns@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3396-4051</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.337148326499999,-25.572966750500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Ricardo Krieger</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emrkrieger@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3256-3700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.237371234800001,-25.384161132399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Ulisses Falcão Vieira</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emulissesvieira@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3373-3839</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.352384153400003,-25.4494408885,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora América Da Costa Sabóia</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emamericasaboia@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3347-1615</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.334848396399998,-25.531053274,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Augusta Glück Ribas</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emaugustaribas@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-3611</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.268516135200002,-25.534984403900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Carmen Salomão Teixeira</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emcarmenteixeira@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3289-5924</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.259550159,-25.572302064100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Cecília Maria Westphalen</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emcwestphalen@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3289-4415</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.262548370200001,-25.556223678399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Donatilla Caron Dos Anjos</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emdonatila@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3296-4147</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.239436046599998,-25.4786782135,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Joana Raksa</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjraksa@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3265-6828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.348780709899998,-25.619171761899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Jurandyr Baggio Mockell</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjmockell@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-2021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.286242724,-25.519711000800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Lina Maria Martins Moreira</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emlinamoreira@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3274-2737</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.333817033099997,-25.461661232099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Maria Augusta Jouve</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmajouve@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3286-0177</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.233917391799999,-25.5241853279,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Maria De Lourdes Lamas Pegoraro</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmlpegoraro@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3261-3733</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.196132580700002,-25.474864884300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Maria Ienkot Zeglin</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmzeglin@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3265-2175</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.331598982199999,-25.577562149599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Maria Marli Piovezan</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmpiovezan@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3364-4453</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.208095118899998,-25.495176348200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Maria Neide Gabardo Betiatto</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmarianeide@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3348-6633</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.281819928700003,-25.5578696215,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Maria Nicolas</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Empmarianicolas@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3343-1535</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.296771543200002,-25.460716200899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Miracy Rodrigues De Araújo</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emmiracy@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3564-5767</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.257044225900003,-25.543915717,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Nair De Macedo</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emnairmacedo@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3246-8132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.309896606199999,-25.490221175,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Nansyr Cecato Cavichiolo</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emnansyrcecato@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3333-1763</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.263958182800003,-25.464860984200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Nathália De Conto Costa</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emnathaliacontocosta@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3348-4688</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2785556941,-25.565891366399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Rejane Maria Silveira Sachette</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emrejanesachette@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3265-2110</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.27095089,-25.548900361899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Sophia Gaertner Roslindo</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emsroslindo@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3378-2425</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.243505470099997,-25.5360827232,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Sônia Maria Coimbra Kenski</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emsoniakenski@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3364-7669</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.327090336600001,-25.375462109200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Tereza Matsumoto</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emtmatsumoto@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3276-2975</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.261528601499997,-25.4918993436,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Érica Plewka Mlynarczyk</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emerica@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3265-7917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.313194950700002,-25.560250611400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pró-Morar Barigui</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Empromorar@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3245-0304</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.335552701600001,-25.4949249571,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rachel Mader Gonçalves</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emrachelmader@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3364-3510</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2002804424,-25.486879236299998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Raoul Wallenberg</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emrwallenberg@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3272-4481</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.361649759099997,-25.410841296600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Raul Gelbeck</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emrgelbeck@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3356-9556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.241607477800002,-25.373336947599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rio Bonito</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emriobonito@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3225-8511</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.335739477700002,-25.590360867200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rio Negro</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emrionegro@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3349-3055</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.283331034600003,-25.544627781,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ritta Anna De Cássia</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emrittaanna@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3226-9219</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2044528411,-25.457891884399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rolândia</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emrolandia@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3286-5452</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.249109247900002,-25.517080955499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Romário Martins</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emromariomartins@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3585-2666</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.255136200099997,-25.3529939523,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sady Sousa</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emsadysousa@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3378-7174</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.261651708599999,-25.533896927699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Ana Mestra</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emsantaana@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3396-4527</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.323289981099997,-25.584953707699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Águeda</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emsagueda@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3257-1521</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2311581429,-25.3765777001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Senador Enéas Faria</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emefaria@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3266-1651</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.196901316599998,-25.4542253485,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sidônio Muralha</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emsidonio@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3249-4740</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.349986523,-25.485731693,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Luiz</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emsaoluiz@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3342-1525</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.281713369,-25.452704428600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Mateus Do Sul</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emsaomateus@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3246-8473</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.297670380600003,-25.5237499873,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Miguel</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emsaomiguel@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-1433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.336612662699999,-25.479634685600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanira Regina Schmidt</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emtschmidt@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3585-1286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.274359568400001,-25.355449498399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Theodoro De Bona</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emtdebona@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3257-2061</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2131329423,-25.3741539516,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tomaz Edson De Andrade Vieira</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emtomazvieira@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3212-1450</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2941647715,-25.515384982200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ulysses Silveira Guimarães</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emusguimaraes@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3354-4177</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2747422972,-25.3640893402,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Umuarama</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emumuarama@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3246-8634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.303333189299998,-25.5022712705,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vereador João Stival</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emjstival@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3370-1589</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.355332499399999,-25.3911301212,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vereadora Laís Peretti</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emlaisperetti@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-4143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.282690953699998,-25.530018670699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila São José</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">3373-4401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.377864042,-25.456985962299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Torres</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emvilatorres@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3333-0199</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.257521872300003,-25.4471953123,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Zanon</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emvilazanon@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3396-3484</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.318661620100002,-25.5710019321,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vinhedos</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emvinhedos@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3297-1832</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.330665046500002,-25.398329554899998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Walter Hoerner</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emwalterhoerner@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3373-2750</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.324782038,-25.435242343199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wenceslau Braz</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emwbraz@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3286-6563</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.227683603,-25.502348651199998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Álvaro Borges</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emalborges@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3347-9880</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.339628605400002,-25.545038824100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Érico Veríssimo</name>
+	<ExtendedData><SchemaData schemaUrl="#Escolas">
+		<SimpleData name="categoria">Escola Municipal</SimpleData>
+		<SimpleData name="email">Emeverissimo@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">3378-2266</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.255097593499997,-25.531417673499998,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

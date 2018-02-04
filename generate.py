@@ -108,6 +108,30 @@ generator.write()
 # Health and Services
 #
 
-# generator = Generator("Cemetarios")
-# generator.addFeatures("CEMETARIOS", "Cemetario")
-# generator.write()
+generator = Generator("Emergências", metadata={"24 horas?": "func_24hr", "telefone": "telefone", "email": "email", "site": "site"})
+generator.addFeatures("HOSPITAL", "Hospitals")
+generator.addFeatures("UNIDADE_DE_PRONTO_ATENDIMENTO", "Unidade de Pronto Atendimento")
+generator.write()
+
+generator = Generator("Médicos")
+generator.addFeatures("UNIDADE_DE_SAUDE", "Unidades de Saúde")
+generator.addFeatures("CENTRO_DE_ESPECIALIDADES_MEDICAS", "Centro de Especialidades Médicas")
+generator.addFeatures("CENTRO_DE_ESPECIALIDADES_ODONTOLOGICAS", "Centro de Especialidades Odontológicas")
+generator.addFeatures("CAPS", "Centro de Atendimento Psicosocial (CAPS)")
+generator.write()
+
+generator = Generator("Creches", metadata={"telefone": "telefone", "email": "email"})
+generator.addFeatures("CMEI", "Creche Municipal (CMEI)")
+generator.addFeatures("CEI_CONVENIADA", "Creche Conveniada (CEI)")
+generator.write()
+
+generator = Generator("Escolas", metadata={"telefone": "telefone", "email": "email"})
+generator.addFeatures("ESCOLA_MUNICIPAL", "Escola Municipal")
+generator.write()
+
+generator = Generator("Serviços Social", metadata={"telefone": "telefone", "email": "email"})
+generator.addFeatures("RUA_DA_CIDADANIA", "Rua da Cidadania")
+generator.addFeatures("CRAS", "Centro de Referência da Assistência Social (CRAS)")
+generator.addFeatures("CENTRO_DA_JUVENTUDE", "Centro da Juventude")
+generator.addFeatures("CLUBE_DA_GENTE", "Clube da Gente")
+generator.write()

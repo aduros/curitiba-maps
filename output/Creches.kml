@@ -1,0 +1,2558 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Creches" id="Creches">
+	<SimpleField name="categoria" type="string"></SimpleField>
+	<SimpleField name="email" type="string"></SimpleField>
+	<SimpleField name="telefone" type="string"></SimpleField>
+</Schema>
+<Folder><name>Creches</name>
+  <Placemark>
+	<name>A Mão Cooperadora - Campo Comprido</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Campocomprido@Maocooperadora.Org</SimpleData>
+		<SimpleData name="telefone">(41) 3373-7690</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.354676885899998,-25.454113312299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A Mão Cooperadora - Uberaba</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Uberaba@Maocooperadora.Org</SimpleData>
+		<SimpleData name="telefone">(41) 3377-4629</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.227322909400002,-25.490188588,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A Mão Cooperadora - Uberaba Ii</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Uberaba2@Maocooperadora.Org</SimpleData>
+		<SimpleData name="telefone">(41) 3344-3862</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.207863522799997,-25.491249362400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A Mão Cooperadora - Vila Lindóia</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Lindoia@Maocooperadora.Org</SimpleData>
+		<SimpleData name="telefone">(41) 3247-7040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2753869955,-25.481324042699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abaeté</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiabaete@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3356-2448</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.246414158299999,-25.379479352600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Acácias Unidas</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceiacaciasunidas@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3275-1423</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.261815188600004,-25.498498336,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alegria De Ser</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceialegriadeser@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3336-9889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.288661886900002,-25.420038615100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alegria De Ser Ii</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceialegriadeserdois@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3286-0190</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.224980583099999,-25.5194478883,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alfonsa Farrugea Graceffa</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceialfonsa@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3338-3900</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.282172032699997,-25.387220386799999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Amar</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceiamar@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3354-6396</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.258953497699999,-25.386349475599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Amar Novos Caminhos</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceiamarnovoscaminhos@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3209-1025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2385828261,-25.376893166,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ana Proveller</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeianaproveller@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3364-1269</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.202394981099999,-25.488244166800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Annette Macedo</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceiannettemacedo@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3224-8634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2822279779,-25.435607558299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aprendendo Com Amor</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceiaprendendocomamor@Yahoo.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3364-5098</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.203557740500003,-25.4826358563,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aquarela La Salle</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceiaquarelalasalle@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3049-1449</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.291357177,-25.531623341,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arnaldo Agenor Bertone</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiarnaldobertone@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-7527</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.251119038299997,-25.5396652387,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atuba</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiatuba@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3367-1648</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.203597168100004,-25.395501707499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Autódromo</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiautodromoum@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3261-3896</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.196233727200003,-25.4615080453,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bairro Alto / Tarumã</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeibairroalto@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3367-2682</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.201300303,-25.411374972,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bairro Novo</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeibairronovo@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3289-2047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.268271464199998,-25.5473484953,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barigui</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeibarigui@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3346-2272</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.335513499599998,-25.495645179899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barigui I</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeibariguium@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-3608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.335801133399997,-25.507659121300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boa Vista</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiboavista@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3356-4132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.197206318600003,-25.383255997599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bom Pastor (Dom Ignácio)</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Educacaoinfantil.Domignacio@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3598-7793</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.224174746599999,-25.495444698299998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bracatinga</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeibracatinga@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3338-4188</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2996385657,-25.3793594578,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brilho Do Sol</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Cei.Brilhodosol@Aspr.Org.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3153-4812</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.339595075600002,-25.559810057699998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Butiatuvinha</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeibutiatuvinha@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3370-1574</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.352533090199998,-25.393100423500002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caic Cândido Portinari</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicaicportinari@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3249-6314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.348891385800002,-25.4961656081,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caiuá / Ilhéus</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjcaiuailheus@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3249-4934</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.353284633800001,-25.486901696899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caiuá I</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjcaiuaum@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3249-3627</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.349691360800001,-25.485658769699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caiuá Ii</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjcaiuadois@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3249-5417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.353385953,-25.483929330199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cajueiro</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicajueiro@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3265-7512</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.320779488200003,-25.580334597299998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cajuru</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicajuru@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3267-2551</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.225823852,-25.448037644300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caminho Do Futuro</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceicaminhodofuturo@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3373-1411</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.353215313200003,-25.452765088500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Campo Alegre</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicampoalegre @Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3346-4906</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.314567889599999,-25.498515145700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Campo Alto</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicampoalto@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3356-4043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.198566143199997,-25.3826704429,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cantinho Da Criança</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceicantinhodacriança@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3346-6730</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.273842355299998,-25.525648267,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cantinho De Sol</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceicantinhodesol@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3266-4782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.219512440400003,-25.454391124099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cantinho Do Parque</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceicantinhodoparque@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3027-8048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.226533857900002,-25.390009665899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cantinho Do Sol</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicantinhodosol@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3251-1009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.230625216900002,-25.364585119200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cantinho Feliz Da Irmã Clementina</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Cei_Cantinho_Feliz@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3367-3598</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.217471823300002,-25.412562519,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caramuru</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicaramuru@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3296-6815</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.238899034,-25.476593524199998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carlos Alberto Pereira De Oliveira</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicarlosapoliveira@Sme.Curitiba.Pr.Gov</SimpleData>
+		<SimpleData name="telefone">(41) 3333-0083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.271090546499998,-25.471163757300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Casa Da Criança São José</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Cei_Sao_Jose@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3528-0155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.217167569200001,-25.452458558699998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Casa De Nazaré</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceicasadenazare@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3265-3738</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.311425418100001,-25.563835321799999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cassiopéia</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicassiopeia@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3356-8966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.239027169499998,-25.3867549452,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castelinho Do Saber</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Cei_Castelinhodosaber@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3079-1893</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.259926929599999,-25.428290333300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caximba</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicaximba@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3265-7260</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.345930779699998,-25.6193595831,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Centro Cívico</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicentrocivico@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3352-1648</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2705484297,-25.4129329911,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chave De Davi</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Contato@Escolachavededavi.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3078-4433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.260099870600001,-25.444892066200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cinderela</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicinderela@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3338-3669</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.284126702199998,-25.389549811599998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ciro Frare</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicirofrare@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3289-4281</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.252204676700003,-25.5571441363,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Colméia´S</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceicolmeias@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3039-7948</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2535123,-25.4819173761,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Colombo I</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicolomboum@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-8392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.331784958699998,-25.489633256600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Começo De Vida</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceicomecodevida@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3275-5430</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.272562121699998,-25.510869060800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto Araguaia</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjaraguaia@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3366-0139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2056403952,-25.4375386398,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto Araucária</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjaraucaria@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3378-4554</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2535103361,-25.527650742199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto Atenas Ii</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjatenasdois@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3373-2737</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.353914928199998,-25.454527157800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto Camponesa</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjcamponesa@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3373-9843</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.350477516200002,-25.4358229507,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto Cananéia</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjcananeias@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-6996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.339187006300001,-25.476594374,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto Ilha Bela</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjilhabela@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3285-2447</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.342177300199999,-25.464996504399998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto Iracema</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjiracema@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3266-3035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.204777049400001,-25.442092402699998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto Itatiaia</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjitatiaia@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3249-1214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.347406739299998,-25.475167338399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto Mercúrio</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjmercurio@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3226-4434</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.1981720008,-25.4677961342,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto Monteverdi</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjmonteverdi@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3364-0718</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.328362468,-25.374787540100002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto Nossa Senhora Da Luz Ii</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeinsluzdois@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3346-4069</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.320996349300003,-25.5043634799,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto Paquetá I E Ii</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjpaquetaum@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-7607</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3437830596,-25.472703676,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto Piquiri</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjpiquiri@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3373-1027</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.341354256199999,-25.4361144314,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto São João Del Rey</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisaojoaodelrey@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-0166</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2709936412,-25.5412299708,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conselheiro Quielse Crisóstomo Da Silva</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiquielse@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3314-5209</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3571603018,-25.489700408499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coqueiros</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicoqueiros@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3378-6575</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2582221977,-25.533584988200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cora Coralina</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicoracoralina@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3364-1322</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.246984756300002,-25.4674273374,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Curitiba</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicuritiba@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3321-2818</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.271165820599997,-25.448626991200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Céu Azul</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceiceuazul@Gmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3328-5269</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2290169523,-25.401117147200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dalagassa</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeidalagassa@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3265-5754</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.317413134699997,-25.5594112221,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Demawe</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeidemawe@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3275-8443</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.267623044499999,-25.509793299599998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Desafio Do Saber</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceidesafiodosaber@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3348-5800</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.332410126799999,-25.565049369499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dinalva Túlio</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisantafelicidade@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3273-6550</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.346535573499999,-25.392176191099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Divina Misericórdia Boqueirão</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceidivinamisericordiabq@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3344-5384</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.244370574800001,-25.518816858699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Divina Misericórdia Sabará</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceidmsab.Gmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3228-1136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.347286071799999,-25.501515855699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dona Bertha</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeidonabertha@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3225-8957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.336760010699997,-25.584980679099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Doutor Adolfo Bezerra De Menezes</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceiadolfobezerra@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3223-6164</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.277712208200001,-25.4299158854,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Doutor Arnaldo Carnasciali</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiacarnasciali@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3289-4241</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.265135658,-25.541867751600002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Doutor Eraldo Kuster</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeieraldokuster@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3327-1890</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.305287187499999,-25.522312608499998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Doutor Francisco Cunha Pereira Filho</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeifranciscocunha@Sme.Curitiba.Pr.Gov.Be</SimpleData>
+		<SimpleData name="telefone">(41) 3575-0308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.202136503200002,-25.488716164700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Doutor Leocádio José Correia</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceileocadiocorreia@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3256-5142</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.233776889399998,-25.372770375,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edmundo Lemanski</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiedmundolemanski@Sme.Curitiba.Pr.Gov.</SimpleData>
+		<SimpleData name="telefone">(41) 3286-1843</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.266203650800001,-25.524395758600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eonides Terezinha Ferreira</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeieonidestf@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3372-3298</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.338279714800002,-25.422895089899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Erondy Silvério</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiesilverio@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3265-1613</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.332097598099999,-25.577837392599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Escritor Elias José</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeieliasjose@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3286-6517</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.234149683699997,-25.531703475800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Espaço Verde</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceiespacoverde@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3338-5014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.304180375800001,-25.390997301,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Esperança</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceiesperanca@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3227-5137</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.25286572,-25.544345659299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Estação Barigui</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiestacaobarigui@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3346-1599</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.331401678299997,-25.514447262899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Estrela</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiestrela@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-9239</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.317095635400001,-25.477925592,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eucaliptos</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeieucaliptos@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3379-7564</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2445471606,-25.526696446599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Família Feliz I</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceifamiliafeliz@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3348-6855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.283874873499997,-25.555367446,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Família Feliz Ii</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceifamiliafelizdois@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3349-3402</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.287834428399997,-25.566606693,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fani Lerner</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeifanilerner@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3265 5562</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3385577584,-25.569732534,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fazenda Boqueirão</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeifboqueirao@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3278-1073</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.238215851900001,-25.489455790899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fazendinha</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeifazendinha@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-3672</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.327674207599998,-25.479606612200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Feliz Senhora Da Luz</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceisenhoradaluz_Bercario@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3347-5873</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.321683007499999,-25.4998675816,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Flora Munhoz Da Rocha</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3349-1002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.333507454900001,-25.5593926291,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frei Miguel</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceifreimiguel@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3347-4839</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.319167664699997,-25.510557652399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frei Tito De Alencar</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceiapoiocajuru@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3085-5512</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.206814901500003,-25.468713164099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gerdt Guenther Hastschbach</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeigerdtghaschabach@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3348-0644</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.335201719499999,-25.590473798800002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Giacomino</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceigiacomino@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3042-6182</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.325896825500003,-25.490114371099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Guilherme Canto Darin</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiguilhermecanto@Sme.Curitiba.Pr.Gov.B</SimpleData>
+		<SimpleData name="telefone">(41) 3333-1624</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.263692969,-25.4654265036,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hauer</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilahauer@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3277-4141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.252265496600003,-25.490514730800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hermes Macedo</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeihmacedo@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3227-1802</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.332589084200002,-25.5884988384,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hortências</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeihortencias@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3286-1917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2349927271,-25.526645470799998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hugo Peretti</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeihugoperetti@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3288-7327</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.335073811199997,-25.507660462,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Independência</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiindependencia@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3346-7466</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.276681882200002,-25.517536981399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Infância Colorida</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceiinfanciacolorida@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3226-7330</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.196289912099999,-25.476759334499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ioko Margareth Hara</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiokomhara@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3286-1928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2163905524,-25.494244719,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Irmã Dorothy Mae Stang</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiirmadorothy@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3315-2282</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.207858778800002,-25.422359615800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Irmã Dulce</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiirmadulce@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3315-2297</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.209409181399998,-25.399934571,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Isis Sanson Monte Serrat</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiisismserrat@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3327-4562</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3210552408,-25.518415834100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Itacolomi Sabará</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjisabara@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3249-2754</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.344517572900003,-25.4993000413,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Itamarati</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiitamarati@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3378-7038</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.266117484600002,-25.517685739600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Itapema</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicjitapema@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-6564</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.340231152800001,-25.4838377785,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Acrópole</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceijardimacropole@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3261-3255</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.19202247,-25.471369692500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Alegre</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeijardimalegre@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3357-4724</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.217147391899999,-25.3623561504,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Aliança</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeijardimalianca@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3356-4231</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.231391029299999,-25.364904123599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Esmeralda</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeijdesmeralda@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3275-9087</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.268748826699998,-25.508170579400002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Gabineto</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeijdgabineto@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3373-0471</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.353406591400002,-25.4355841629,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Paranaense</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeijdparanaense@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3378-1312</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.240960734,-25.540881612700002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Paraná</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeijardimparana@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3248-1682</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.281793279699997,-25.498800419599998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Saturno</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeijdsaturno@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3272-3139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.344613217800003,-25.4282465882,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jequitibá</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeijequitiba@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3289-0828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.257786205400002,-25.558228083500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jesus Criança</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceijesuscrianca@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3372-5405</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.343302909400002,-25.413814135,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jornalista Juril De Plácido E Silva Carnasciali</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeijuriljpscarnasciali@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3348-5326</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.322734109400002,-25.592695985599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Josefina Rocha</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceijosefinarocha@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3256-3615</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.240834927,-25.404914576300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>José Alencar</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeijosealencar@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3348-2987</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.248551766699997,-25.553594670399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>José Carlos Pisani</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeijcpisani@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3396-5359</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3286490578,-25.568956757500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>João Baptista Fontana</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeijbfontana@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3333-6896</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.261926828699998,-25.465793811400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Krasinski</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeikrachinski@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3354-3288</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.273105595700002,-25.368120400799999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lala Schneider</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeilschneider@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3564-1411</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2538473846,-25.537441527599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laura Santos</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3262-1708</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.247203121,-25.449613375599998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Letras Douradas</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceiletrasdouradas@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3275-4522</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2684679706,-25.5041685331,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Liberdade</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiliberdade@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3367-2433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.199209528700003,-25.404804113499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Luz Do Amanhã</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiluzdoamanha@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3212-1404</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.328788509399999,-25.5151710395,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Madre Carmela De Jesus</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceimadrecarmela@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3024-4331</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.298611654799998,-25.454615932399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marcelino Champagnat</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceimarcelinochampagnat@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3271-2383</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.250158267300002,-25.447771727700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marechal Rondon Ii</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeimrondondois@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3346-5693</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.318613184,-25.495843972300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maria Aparecida Buscardin Hartmann</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeimariaaphartmann@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3585-4023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.262836221699999,-25.352824233900002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maria Cazetta</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceimariacazetta@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3278-2489</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.228689757700003,-25.4767550326,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maria Gracita Gracia Gonçalves</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeimariagracita@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3348-6667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.340612911299999,-25.5914946141,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marista Curitiba</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Sfrasson@Solmarista.Org.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3288-3576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.332933360399998,-25.4772289153,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Meia Lua</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeimeialua@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3278-1008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.227677611499999,-25.4970011451,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mena Camargo</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceimenacamargo@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3267-3710</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.228493133500002,-25.4318605339,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Menino Jesus De Nazaré</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceimeninojesusdenazare@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3285-5967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.338897686199999,-25.462394213300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Meu Pequeno Reino</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceimeupequenoreino@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3223-1555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.264581488399998,-25.4340628259,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Miguel Arraes De Alencar</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeimiguelarraes@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3229-3679</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.348495283299997,-25.494234057900002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Miriam</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceimiriam@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3338-4566</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.284089773799998,-25.393284977299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monteiro Lobato</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeimonteirolobato@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3265-2642</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.336805848799997,-25.572950747499998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Augusta</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeimoradiasaugusta@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3285-2404</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.350170601,-25.456921566799998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Belém</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeimoradiasbelem@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3286-4883</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.221365302,-25.507561824,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Corbélia</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeicorbelia@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3288-7463</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.353074974,-25.506588255899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Da Ordem</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeimoradiasdaordem@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3396-4191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.328067514499999,-25.5639031895,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Gramados</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeimgramados@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3346-6344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.267188647300003,-25.525366326699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Iguaçu</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeimoradiasiguacu@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3361-2500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.197563112099999,-25.471714805400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moradias Olinda</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeimoradiasolinda@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-4182</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.283973307899998,-25.542650751499998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mário Covas</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeimariocovas@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3345-1491</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.361486301799999,-25.474145341500002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nazareno - Cenaza</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceinazarenocenaza@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3333-1019</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.268270413400003,-25.4625596837,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nelson Buffara</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeinelsonbuffara@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3272-4726</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.359528223,-25.420195524,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nice Braga</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeinicebraga@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3314-5234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.304473564699997,-25.4630703226,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nossa Senhora De Fátima</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeinsfatima@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3585-1728</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.274147108599998,-25.3566896327,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nossa Senhora Do Rocio</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceinossasenhoradorocio@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3332-5759</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2638911839,-25.449774461899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nova Barigui</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeinovabarigui@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3314-5117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.338280484099997,-25.495998152,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Novo Horizonte</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeinovohorizonte@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3564-1142</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.267097964800001,-25.556447328299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oca Mirim</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ocamirim@Cia.Tv</SimpleData>
+		<SimpleData name="telefone">(41) 3353-4139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.255759217700003,-25.413998550700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olga Benário Prestes</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiolgaprestes@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-2414</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2871419011,-25.528321667699998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oswaldo Cruz I</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeioswaldocruzum@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3346-1959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.323384238300001,-25.512337097,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oswaldo Cruz Ii</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeioswaldocruzdois@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3248-2970</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.326571345799998,-25.515586108699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Padre Cláudio Longen</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceiclaudiolongen@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3277-5208</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.240643092600003,-25.483449758199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palmeiras</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeipalmeiras@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3348-1077</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.294640155899998,-25.554017972499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pantanal</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeipantanal@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3379-8571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.232837189400001,-25.536442790399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parigot De Souza</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiparigotdesouza@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3378-7673</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.269158067799999,-25.5288608989,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque Industrial</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeipindustrial@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3247-6426</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.304063651,-25.5079811238,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pedacinho De Gente</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceipedacinhodegente@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3227-3263</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.275938861900002,-25.531307687599998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pimpão</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeipimpao@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3229-3510</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3051905174,-25.482009228199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pingo De Gente</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Cei_Pingo_De_Gente@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3327-6468</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.283287377,-25.493111494600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pinheirinho</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeipinheirinho@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-4166</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.286633074100003,-25.5193847492,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Porto Belo</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiportobelo@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3314-5116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.338518300899999,-25.484795180500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Porto Seguro</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiportoseguro@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-6688</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.349791123700001,-25.475037908600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Portão</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiportao@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3247-2863</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.286563158500002,-25.476385837399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Prefeito Ivo Arzua Pereira</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.278608322300002,-25.535438859399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Carlos Roberto Antunes Dos Santos</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3289-3130</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.290721167,-25.553035118699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Osni Camargo Carvalho</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiosnicamargo@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3229-2269</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.340296786,-25.470550001900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Osny Dacol</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiosnydacol@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3267-1740</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.197270637700001,-25.454486380599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professor Riad Salamuni</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiriadsalamuni@Sme.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3345-1153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3547140282,-25.4891315757,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Ada Pires De Oliveira</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiadapires@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3335-1747</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.286569715100001,-25.387662431300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Clarice Da Rocha Rosa</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiclaricerosa@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3386-1047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.244562461699999,-25.543568986499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Fúlvia Rosemberg</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeifulviarosemberg@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3275-1672</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.238067383900002,-25.489940487599998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Iodéia Felício</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiodeiafelecio@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3348-2963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.274623035099999,-25.552401621600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Lygia Carneiro</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiligiacarneiro@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3364-7221</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3338320099,-25.3861619718,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Maria Viezzer Hermann</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeimviezzer@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3336-6049</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.299018393099999,-25.410350134,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Professora Teruko Beltrão</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiterukobeltrao@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3364-4048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.199489444800001,-25.489880646300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rachel Mader Gonçalves</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceirachelmader@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3276-5784</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.247752905,-25.484130589199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Recanto Feliz Santa Úrsula</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceirecantofeliz@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3296-2227</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.200540814,-25.493962335100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rio Negro</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeirionegro@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-3677</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.277197886,-25.5436630546,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rosy Terezinha Bially</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeirosyially@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-0996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2705089245,-25.548752704200002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rurbana</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeirurbana@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3396-5500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.326211321400002,-25.583570674400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ruth Cardoso</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiruthcardoso@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3344-5827</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.200604059699998,-25.496425203299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salgueiro</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisalgueiro@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3378-7217</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.258852881499998,-25.529316937099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Amélia</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisantaamelia@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3288-2508</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.325468582900001,-25.485791448899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Cândida</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisantacandida@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3356-4123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.210426191,-25.373201227300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Efigênia</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisantaefigenia@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3354-5025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2617022194,-25.377222051299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Guernert Schier</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.282711365700003,-25.4748146628,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Helena</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisantahelena@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-1330</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.344257086699997,-25.485664123500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Izabel</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisantaizabel@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3289-5352</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.260797439299999,-25.5427512419,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Maria De Deus</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceisantamariadedeus@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3246-3186</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.321035933399997,-25.499445955900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Quitéria</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisantaquiteria@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3274-7655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3170651824,-25.461855714199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Rita</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisantarita@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3265-8686</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.338450782300001,-25.5652232674,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santo Antônio</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisantoantonio@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3286-6557</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.214086509099999,-25.496505995700002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santo Antônio De Pádua</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceisantoantoniodepadua@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3286-7244</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.234469991899999,-25.521225153100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santos Andrade</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisantosandrade@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3274-2420</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.323616768599997,-25.457799429400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Senador Affonso Alves De Camargo</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiaffonsocamargo@Sme.Curitiba.Pr.Gov.B</SimpleData>
+		<SimpleData name="telefone">(41) 3267-1684</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2201700229,-25.450709924600002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Senhora Da Luz</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceisenhoradaluz_Creche@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3248-2432</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.322057301900003,-25.500722533800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Solitude</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisolitude@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3226-7363</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.195559853,-25.477100556700002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sonho De Criança</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisonhodecrianca@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3289-0053</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2472258524,-25.554177884800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sylvia Orthof</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisylviaorthof@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3564-6567</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.253378469799998,-25.537246894900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Braz</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisaobraz@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3273-1774</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.343242242300001,-25.417737805800002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Carlos</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisaocarlos@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-5757</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.300679679,-25.537686068900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São José</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisaojose@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3373-5766</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.379259139699997,-25.456824604299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São José Operário</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisaojoseoperario@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3378-2350</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.239539985699999,-25.5339643943,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São João</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisaojoao@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3372-4695</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.313905468199998,-25.395918802200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São João Batista</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceisaojoaobatista@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3333-8373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.261279780099997,-25.444499911600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Leonardo</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeisaoleonardo@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3373-2524</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.360252043499997,-25.438812196200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Luiz Orione</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Cei_Sao_Luiz_Orione@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3345-4044</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.308730901600001,-25.463152930700002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Vicente De Paulo</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceisaovicente@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3226-1545</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.201480975599999,-25.457107478499999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tapajós</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeitapajos@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3278-2425</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2615966372,-25.491576525900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tapajós Ii</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeitapajosdois@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3277-2872</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.259250833499998,-25.498373452500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tia Bety</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceitiabety@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3016-5020</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.211696677100001,-25.4750414,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tia Chiquita</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeitiachiquita@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3289-5226</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.260875203499999,-25.5502585849,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tia Cida</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceitiacida@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3373-5464</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.355911045399999,-25.453939291200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tia Eva</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeitiaeva@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3248-6548</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.327160556700001,-25.5098025789,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tiradentes</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeitiradentes@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3379-7504</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.247726131900002,-25.5277146486,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trem Do Futuro</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceitremdofuturo@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3373-6364</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.352989887,-25.450829272899998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trindade</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeitrindade@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3365-1769</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.205833316499998,-25.446849181,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ubatuba / Tambaú</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiubatubatambau@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-6899</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3415344979,-25.473336418,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Uberaba</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiuberaba@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3369-1010</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.213466390900003,-25.482668174699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Uberlândia</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiuberlandia@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3246-9158</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.313403769899999,-25.483807646599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>União Das Vilas</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiuniaodasvilas@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3273-6735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.356864858,-25.4122273033,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Urano</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiurano@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3346-6272</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.273456866499998,-25.5160851931,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vera Cruz Ii</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiveracruzdois@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3249-5569</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.351548809,-25.480166523299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vereadora Nely Almeida</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeinelyalmeida@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3332-1513</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.258439856,-25.444062515799999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vicentino Santa Luiza</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceisantaluiza@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3334-3142</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2527955459,-25.443242333200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Califórnia</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilacalifornia@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3356-3113</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2219505861,-25.368549811699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Camargo</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilacamargo@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3226-1018</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.213987252499997,-25.461956750799999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Diana</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiviladiana@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3354-4377</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.264851176800001,-25.3672938409,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Fanny</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilafanny@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3246-8516</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.27594231,-25.481975013900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Formosa</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilaformosa@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3246-4028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3062846427,-25.4874839561,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Ipiranga</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilaipiranga@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3346-4979</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.284633528500002,-25.503563625799998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Leonice</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilaleonice@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3585-4446</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.255622568900002,-25.353152118699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Leão</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilaleao@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3212-1500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.302253605499999,-25.485148347199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Lindóia</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilalindoia@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3248-6994</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2729083495,-25.478886977599998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Lorena</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilalorena@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3286-3835</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.215518911799997,-25.5006280825,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Macedo</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilamacedo@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3365-6101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.226911504900002,-25.4739226861,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Nori</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilanori@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3338-1311</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2952720535,-25.389213247600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Osternack</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilaosternack@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3289-3738</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.253647746,-25.5542109302,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Parolim</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilaparolin@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3332-8687</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.266167366099999,-25.468442728199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Real</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilareal@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3272-4759</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3572037255,-25.425785445399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Rigoni</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilarigoni@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3245-6474</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.326282642899997,-25.4744555485,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Rosinha</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilarosinha@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3329-3020</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.3153606897,-25.473403198700002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Sandra</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilasandra@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3373-2827</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.345149147900003,-25.456465103599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Torres</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilatorres@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3362-1621</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2578406887,-25.447326389,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Verde</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilaverde@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3347-1231</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.335400439499999,-25.529829701,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Verde Ii</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiprevilaverde@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3312-1528</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.335733485399999,-25.5298997501,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Vitória</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivilavitoria@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-3730</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.269492385,-25.539963327500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Virgem Da Salette (Nossa Senhora Da Salette)</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceivirgemdasalette@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3262-0495</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.229607461199997,-25.420484545299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vitória Régia</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivitoriaregia@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3346-2360</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.339756900399998,-25.5415200885,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vovó Cenira Gusso</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceivovocenira@Yahoo.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3023-6502</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2818997985,-25.498633444500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vó Anna</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivoanna@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3396-3059</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.332952505,-25.559642855100002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vó Nazareth</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeivonazareth@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3226-6588</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.204493481299998,-25.460659548,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xapinhal</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeixapinhal@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-4945</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.281188649800001,-25.531266761800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xapinhal Ii</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeixapinhaldois@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3349-0184</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.271921460900003,-25.532009821700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xaxim</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeixaxim@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3378-1850</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.246028591600002,-25.528689559,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yvone Pimentel</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Ceiyvonepimentel@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3247-4280</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.299769878600003,-25.4960634378,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ágape</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Conveniada (CEI)</SimpleData>
+		<SimpleData name="email">Coordenacaoescolaagape@Gmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3402-3799</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.249292175100003,-25.496200523900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ângela Dellatre</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiangeladellatre@Sme.Curitiba.Pr.Gov.B</SimpleData>
+		<SimpleData name="telefone">(41) 3251-1007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.213891602799997,-25.3907503398,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Érico Veríssimo</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiericoverissimo@Sme.Curitiba.Pr.Gov.B</SimpleData>
+		<SimpleData name="telefone">(41) 3378-2812</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.254908578,-25.531866618199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ítalo Conti</name>
+	<ExtendedData><SchemaData schemaUrl="#Creches">
+		<SimpleData name="categoria">Creche Municipal (CMEI)</SimpleData>
+		<SimpleData name="email">Cmeiitaloconti@Sme.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3267-5884</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.200570047399999,-25.447815664899998,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

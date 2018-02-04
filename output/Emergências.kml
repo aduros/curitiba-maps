@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Emergências" id="Emergências">
+	<SimpleField name="categoria" type="string"></SimpleField>
+	<SimpleField name="24 horas?" type="string"></SimpleField>
+	<SimpleField name="email" type="string"></SimpleField>
+	<SimpleField name="telefone" type="string"></SimpleField>
+	<SimpleField name="site" type="string"></SimpleField>
+</Schema>
+<Folder><name>Emergências</name>
+  <Placemark>
+	<name>Adel Cad</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3078-5235</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.243550270500002,-25.424392635899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Albert Sabin / Fazendinha</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Unidade de Pronto Atendimento</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Sms@Sms.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3314-5050</SimpleData>
+		<SimpleData name="site">Www.Saude.Curitiba.Pr.Gov.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.327862514800003,-25.477676077400002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ana Carolina Moura Xavier</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Chranacarolina@Sesa.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3281-2600</SimpleData>
+		<SimpleData name="site">Www.Hospitaldereabilitacaodoparana.Saude.Pr.Gov.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.252197424800002,-25.405551771900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Artro</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3340-5510</SimpleData>
+		<SimpleData name="site">Www.Clinicaartro.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.298986751500003,-25.442339995600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bairro Novo</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3289-2424</SimpleData>
+		<SimpleData name="site">Www.Feaes.Curitiba.Pr.Gov.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.261708175099997,-25.549040896400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barigui Oftalmologia</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Contato@Oftalmobarigui.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3075-2020</SimpleData>
+		<SimpleData name="site">Www.Oftalmobarigui.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.301110521200002,-25.424345368899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boa Vista</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Unidade de Pronto Atendimento</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Sms@Sms.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3251-1010</SimpleData>
+		<SimpleData name="site">Www.Saude.Curitiba.Pr.Gov.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.232857718299996,-25.385712338400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bom Retiro</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Hepbr@Hospitalbomretiro.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3200-1900</SimpleData>
+		<SimpleData name="site">Www.Hospitalbomretiro.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.241859260799998,-25.450428411200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boqueirão</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Unidade de Pronto Atendimento</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Sms@Sms.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3217-1259</SimpleData>
+		<SimpleData name="site">Www.Saude.Curitiba.Pr.Gov.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.246115686,-25.492934524,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cajuru</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Ouvidoria.Huc@Pucpr.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3271-3000</SimpleData>
+		<SimpleData name="site">Www.Hospitalcajuru.Org.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.245638513300001,-25.435871197200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cajuru</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Unidade de Pronto Atendimento</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Sms@Sms.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3261-4099</SimpleData>
+		<SimpleData name="site">Www.Saude.Curitiba.Pr.Gov.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.206603761,-25.469115178700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Campo Comprido</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Unidade de Pronto Atendimento</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Sms@Sms.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3373-4955</SimpleData>
+		<SimpleData name="site">Www.Saude.Curitiba.Pr.Gov.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.339920097499999,-25.442102391300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cao</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">3342-4040</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.302127763199998,-25.450925024299998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cemoc</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">3075-7000</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.297425462299998,-25.450649910500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ceopar</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3027-5291</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2991491756,-25.442482343199998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cic</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Unidade de Pronto Atendimento</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Sms@Sms.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3314-5121</SimpleData>
+		<SimpleData name="site">Www.Saude.Curitiba.Pr.Gov.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.339147197899997,-25.497411726100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cindacta</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3251-5300</SimpleData>
+		<SimpleData name="site">Www.Cindacta2.Aer.Mil.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.233525842799999,-25.3979487083,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clínicas Da Ufpr</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Dsm@Hc.Ufpr.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3360-1800</SimpleData>
+		<SimpleData name="site">Www.Hc.Ufpr.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.262165837200001,-25.424240836599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Constantini</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Hospital@Hospitalconstantini.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3013-9000</SimpleData>
+		<SimpleData name="site">Www.Clinicaconstantini.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.299662451899998,-25.463343227100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Corpo Total</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Clinicacorpototal@Yahoo.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3222-8833</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.284277117400002,-25.431311521200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Criança</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Contato@Institutodacriancaonline.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3016-4800</SimpleData>
+		<SimpleData name="site">Www.Institutodacriancaonline.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.294961755199999,-25.472182780899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cruz Vermelha Brasileira</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Hospital@Cruzvermelhapr.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3016-6622</SimpleData>
+		<SimpleData name="site">Www.Cruzvermelhapr.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.289120930499998,-25.437854259800002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Curitiba</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Maternidade@Maternidadecuritiba.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3330-8181</SimpleData>
+		<SimpleData name="site">Www.Maternidadecuritiba.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.272794492099997,-25.459274970100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Day</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Cm.Izique@Terra.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3363-4555</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2426749069,-25.426232157400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Doutor Muricy Ltda</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3085-7600</SimpleData>
+		<SimpleData name="site">Www.Hospitaldrmuricy.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.297593461799998,-25.455087138700002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Erasto Gaertner</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Heg@Lpcc.Org.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3361-5000</SimpleData>
+		<SimpleData name="site">Www.Erastogaertner.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.238684893299997,-25.453163341500002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Evangélico De Curitiba</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Dirsec@Evangelico.Org.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3240-5000</SimpleData>
+		<SimpleData name="site">Www.Evangelico.Org.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.292139737100001,-25.434604185800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Feliccita</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Feliccita@Feliccita.Com.Br</SimpleData>
+		<SimpleData name="telefone">3334-4443</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.268755452199997,-25.453079877299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fraturas Novo Mundo</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Direcao@Hospitalnovomundo.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3052-5600</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.294636685299999,-25.486878932900002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Geral De Curitiba</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Direcao@Hgec.Eb.Mil.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3281-7530</SimpleData>
+		<SimpleData name="site">Www.Hgec.Eb.Mil.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.289315392500001,-25.438817110799999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Heidelberg</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Info@Clinicaheidelberg.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3320-4900</SimpleData>
+		<SimpleData name="site">Www.Heidelbergpsiquiatria.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2864848364,-25.426670962900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hélio Rotenberg</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3376-3466</SimpleData>
+		<SimpleData name="site">Www.Clinicahr.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.246884902300003,-25.484014074699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Iguaçu</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Contato@Hospitaliguacu.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3303-6300</SimpleData>
+		<SimpleData name="site">Www.Hospitaliguacu.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.292068348599997,-25.450967412899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Instituto De Medicina E Cirurgia Do Paraná</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3015-6011</SimpleData>
+		<SimpleData name="site">Www.Imcp.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.259699258,-25.4258762766,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ipo</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Contato@Ipo.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3314-1500</SimpleData>
+		<SimpleData name="site">Www.Ipo.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2910048277,-25.464813253199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lipoplastic</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Informações@Lipoplastic.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3338-0202</SimpleData>
+		<SimpleData name="site">Www.Lipoplastic.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.283338446099997,-25.419886411,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Los Angeles</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Adminisracao@Clinicalosangeles.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3156-9600</SimpleData>
+		<SimpleData name="site">Www.Clinicalosangeles.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.300347085299997,-25.4502330752,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marcelino Champagnat</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Contato@Hospitalmarcelino.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3087-7600</SimpleData>
+		<SimpleData name="site">Www.Hospitalmarcelino.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.246391636600002,-25.436069762300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mater Dei</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Materdei@Materdei.Org.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3883-4300</SimpleData>
+		<SimpleData name="site">Www.Materdei.Org.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.264508755400001,-25.431509917,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Matriz</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Unidade de Pronto Atendimento</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Sms@Sms.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3264-1822</SimpleData>
+		<SimpleData name="site">Www.Saude.Curitiba.Pr.Gov.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2616658285,-25.4248488542,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Medclin</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Hospcc@Hotmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3022-3138</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.270903115599999,-25.404419585300001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Menino Deus</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Sac@Hospitalmeninodeus.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3302-2600</SimpleData>
+		<SimpleData name="site">Www.Hospitalmeninodeus.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.245466019600002,-25.427887881,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nações</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3306-9000</SimpleData>
+		<SimpleData name="site">Www.Hospitalnacoes.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.240605359699998,-25.428192043199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Neurologia De Curitiba</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Ouvidoria@Inc-Neuro.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3028-8545</SimpleData>
+		<SimpleData name="site">Www.Inc-Neuro.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.338262629399999,-25.4430851887,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nossa Saúde</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3240-4700</SimpleData>
+		<SimpleData name="site">Www.Nossasaude.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2921628251,-25.420175434299999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nossa Senhora Da Luz</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Diretoria.Hnsl@Pucpr</SimpleData>
+		<SimpleData name="telefone">3271-5700</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.261592905100002,-25.451535460700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nossa Senhora Das Graças</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Secretaria.Geral@Hnsg.Org.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3240-6060</SimpleData>
+		<SimpleData name="site">Www.Hnsg.Org.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.290750809899997,-25.421135212500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nossa Senhora De Fátima</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Contato@Hmfatima.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 2104-0300</SimpleData>
+		<SimpleData name="site">Www.Maternidadefatima.Com.V=Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.271199909099998,-25.4380805005,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nossa Senhora Do Carmo</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">3024-6214</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.238838476700003,-25.4968421797,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nova Esperança</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Novaesp@Uol.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3244-4155</SimpleData>
+		<SimpleData name="site">Www.Clinicanovaesperanca.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.299871256700001,-25.452235639,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oftalmocenter</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Oftalmocenter@Terra.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3222-1209</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.269332561699997,-25.432663295800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oftalmoclínica Curitiba</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Oftalmologia@Oftalmocuritiba.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3016-4030</SimpleData>
+		<SimpleData name="site">Www.Oftalmocuritiba.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.297542827500003,-25.4479779276,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oftalmologia</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3252-5656</SimpleData>
+		<SimpleData name="site">Www.Cpopr.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.270672832099997,-25.4135333111,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oftalmologia Avançada Do Paraná</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3244-7172</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2896900004,-25.446023943299998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oftalmologia De Curitiba</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3322-2020</SimpleData>
+		<SimpleData name="site">Www.Ioc.Med.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2746634708,-25.4458099211,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oftalmoplástica</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Oftalmoplastica@Oftalmoplastica.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3016-3555</SimpleData>
+		<SimpleData name="site">Www.Oftalmoplastica.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.261013968500002,-25.422730363100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olhos Do Paraná</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Ouvidoria@Hospitaldeolhosdoparana.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3222-4222</SimpleData>
+		<SimpleData name="site">Www.Hospitaldeolhosdoparana.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.285739909900002,-25.435927032399999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oswaldo Cruz</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Hoc@Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3281-1000</SimpleData>
+		<SimpleData name="site">Www.Saude.Pr.Gov.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.259135855499999,-25.425614447899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paraná Clínicas</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3340-3000</SimpleData>
+		<SimpleData name="site">Http://Www.Paranaclinicas.Com.Br/Unidades/Hospital_Dia.Php</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.288245116,-25.452255813,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pequeno Príncipe</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Secretaria.Diretoria@Hpp.Org.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3310-1010</SimpleData>
+		<SimpleData name="site">Www.Pequenoprincipe.Org.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.276110666199997,-25.4442543338,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pietá</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3021-7700</SimpleData>
+		<SimpleData name="site">Www.Pietacm.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.288451793299998,-25.418109898099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pilar</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3072-7272</SimpleData>
+		<SimpleData name="site">Www.Hospitalpilar.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.278939461900002,-25.415552124800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pinheirinho</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Unidade de Pronto Atendimento</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Sms@Sms.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3212-1471</SimpleData>
+		<SimpleData name="site">Www.Saude.Curitiba.Pr.Gov.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.295137245799999,-25.515447237499998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plástica</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3049-6504</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.296386461600001,-25.446610684500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plástica De Curitiba</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Contato@Hospitaldaplasticacuritiba.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3027-1413</SimpleData>
+		<SimpleData name="site">Www.Hospitaldaplasticacuritiba.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.303108365699998,-25.4231879337,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Polícia Militar Do Paraná</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3218-3518</SimpleData>
+		<SimpleData name="site">Www.Pmpr.Pr.Gov.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.248445674899997,-25.442030885400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Porto Seguro</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Atendimento@Clinicaportoseguro.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3019-1234</SimpleData>
+		<SimpleData name="site">Www.Clinicaportoseguro.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.270996199,-25.453911853800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quinta Do Sol</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Quintadosol@Clinicaquintadosol.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3267-6969</SimpleData>
+		<SimpleData name="site">Www.Clinicaquintadosol.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.232844017399998,-25.458239744899998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saint Paul</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Adm@Clinicasaintpaul.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3222-2333</SimpleData>
+		<SimpleData name="site">Www.Clinicasaintpaul.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.280776849200002,-25.437170385,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Brígida</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Ouvidoria@Hmsantabrigida.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3016-2200</SimpleData>
+		<SimpleData name="site">Www.Hmsantabrigida.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.288294304399997,-25.4619106496,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Casa De Misericórdia De Curitiba</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Iscmc@Pucpr.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3320-3500</SimpleData>
+		<SimpleData name="site">Www.Santacasacuritiba.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.272743613,-25.436792584199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Cruz</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3312-3000</SimpleData>
+		<SimpleData name="site">Www.Hospitalsantacruz.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.290355841100002,-25.4445648875,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Felicidade</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Hosp.Msf@Onda.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3273-6456</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.339875086799999,-25.399714048500002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Gianna</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3262-6665</SimpleData>
+		<SimpleData name="site">Www.Clinicasantagianna.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.241495627,-25.423530617400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Madalena Sofia</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Abimed@Abimed.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3525-6151</SimpleData>
+		<SimpleData name="site">Www.Hsms.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.220585158900001,-25.4174324912,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sante</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Atendimento@Hospitalsante.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3015-0101</SimpleData>
+		<SimpleData name="site">Www.Hospitalsante.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.245777012700003,-25.427107099200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sugisawa</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Sac@Sugisawa.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3259-6500</SimpleData>
+		<SimpleData name="site">Www.Hospitalsugisawa.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.273298610300003,-25.443434774899998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Lucas</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Hslcwb@Gmail.Com</SimpleData>
+		<SimpleData name="telefone">(41) 3250-5511</SimpleData>
+		<SimpleData name="site">Www.Hslcuritiba.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.257034416400003,-25.411671368699999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Vicente</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Funef@Funef.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3111-3000</SimpleData>
+		<SimpleData name="site">Www.Funef.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.280392018199997,-25.4349203174,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Vicente Cic</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3306-5800</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.328586217800002,-25.510021570199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sítio Cercado</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Unidade de Pronto Atendimento</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Sms@Sms.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3378-6052</SimpleData>
+		<SimpleData name="site">Www.Saude.Curitiba.Pr.Gov.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.266985218400002,-25.5334754768,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tatuquara</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Unidade de Pronto Atendimento</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Sms@Sms.Curitiba.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone"></SimpleData>
+		<SimpleData name="site">Www.Saude.Curitiba.Pr.Gov.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.332539520499999,-25.576164933899999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trabalhador</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Fatht@Sesa.Pr.Gov.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3212-5700</SimpleData>
+		<SimpleData name="site"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.294797285900003,-25.4847418578,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Contato@Hospitalunion.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3075-7000</SimpleData>
+		<SimpleData name="site">Www.Hospitalunion.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.297315000499999,-25.4506150506,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Victor Ferreira Do Amaral</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Mvfa@Ufpr.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3312-5000</SimpleData>
+		<SimpleData name="site">Http://Www.Ufpr.Br/Portalufpr/Maternidade-Victor-Ferreira-Do-Amaral/</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.279917188500001,-25.446538412500001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Visão De Curitiba</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Contato@Ivisao.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3016-1010</SimpleData>
+		<SimpleData name="site">Www.Ivisao.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.294408736100003,-25.448532987499998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vita Batel</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Batel@Hospitalvita.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3883-8482</SimpleData>
+		<SimpleData name="site">Www.Hospitalvita.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.286728959500003,-25.4376138262,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vita Curitiba</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email">Curitiba@Hospitalvita.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3315-1935</SimpleData>
+		<SimpleData name="site">Www.Hospitalvita.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.217570630200001,-25.407531666099999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vitória</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Sim</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3028-2627</SimpleData>
+		<SimpleData name="site">Www.Hvitoriapr.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.318230374499997,-25.496763270599999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xv</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email">Ouvidoria@Hospitalxv.Com.Br</SimpleData>
+		<SimpleData name="telefone">(41) 3218-2000</SimpleData>
+		<SimpleData name="site">Www.Hospitalxv.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2526703156,-25.426562246900001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Zilda Arns</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3316-5900</SimpleData>
+		<SimpleData name="site">Www.Feaes.Curitiba.Pr.Gov.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.293613654399998,-25.510545108199999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ônix</name>
+	<ExtendedData><SchemaData schemaUrl="#Emergências">
+		<SimpleData name="categoria">Hospitals</SimpleData>
+		<SimpleData name="24 horas?">Não</SimpleData>
+		<SimpleData name="email"></SimpleData>
+		<SimpleData name="telefone">(41) 3017-1200</SimpleData>
+		<SimpleData name="site">Www.Hospitalonix.Com.Br</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.298029949499998,-25.442025693,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
